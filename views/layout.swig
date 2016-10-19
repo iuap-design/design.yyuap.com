@@ -16,6 +16,7 @@
     <link rel="stylesheet" type="text/css" href="//design.yyuap.com/static/uui/latest/css/u.css">
     <link href="css/style1.css" rel="stylesheet" type="text/css" media="all" />
 
+
     {% block head%}{% endblock%}
 
     {% block css %}{% endblock%}
