@@ -2,35 +2,8 @@
 
 {% block content %}
 <div class="wrap animsition" data-animsition-in-class="fade-in" data-animsition-in-duration="1000" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
-    <div class="u-container clearfix ">
-        <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
-            <div class="u-container clearfix ">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="navbar-header page-scroll clearfix">
-                    <button type="u-button u-button-primary" class="navbar-toggle showLinkList" >
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>
-                    <a class="navbar-brand page-scroll" href="#main"><img src="logos/logox.png" height="40" width="174" alt="Mu" /></a>
-                </div>
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse navbar-right clearfix" id="bs-example-navbar-collapse-1">
-                    <ul class="nav navbar-nav">
-                        <li><a class="page-scroll" href="#main">首页</a></li>
-                        <li><a class="page-scroll" href="#services">设计器</a></li>
-                        <li><a class="page-scroll" href="#features">模版</a></li>
-                        <li><a class="page-scroll" href="#reviews">kero</a></li>
-                        <li><a href="javascript:void(0);">案例</a></li>
-                        <li><a href="javascript:void(0);">商务合作</a></li>
-                        <li><a href="javascript:void(0);">关于我们</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav><!-- /.navbar-collapse -->
-    </div><!-- u-.container-fluid -->
 
+    {% include "header.swig"%}
     <div class="main" id="main"><!-- Main Section-->
         <div class="jarallax">
             <div class="text-center">
@@ -55,7 +28,7 @@
 
         <div class="services-section text-center" id="services">
             <div class="u-container clearfix padding-0">
-                <div class="u-col-md-8 u-col-md-offset-2 padding-0">
+                <div class="u-col-md-8 u-col-md-offset-2 ">
                     <div class="services-content">
                         <h1 class="wow fadeInUp">iuap design商业版提供更多增值服务.</h1>
                         <p class="wow fadeInUp" data-wow-delay="0.1s">
@@ -79,7 +52,7 @@
                             </div>
                         </div>
                         <div class="u-col-sm-4 wow fadeInUp" data-wow-delay="0.2s">
-                            <div class="services-icon">
+                            <div class="services-icon ">
                                 <img class="icon-2" src="logos/icon2.png" height="60" width="60" alt="Service" />
                             </div>
                             <div class="services-description">
@@ -107,7 +80,7 @@
             </div>
         </div>
 
-        <div class="flex-features">
+        <div class="flex-features padding-top-0 padding-bottom-30">
             <div class="u-container clearfix ">
                 <div class="u-row flex-split ">
                     <div class="u-col-4">
@@ -131,7 +104,7 @@
                 </div>
             </div>
         </div>
-        <div class="flex-features" id="features2">
+        <div class="flex-features padding-top-0 padding-bottom-20" id="features2">
             <div class="u-container ">
                 <div class="u-row flex-split  ">
                     <div class="u-col-6 ">
@@ -163,7 +136,7 @@
 
 
         <!-- 设计器 -->
-        <div class="features-section-2">
+        <div class="features-section-2 ">
             <div class="u-container-fluid clearfix">
                 <div class="u-col-sm-6">
                     <div class="features-content wow fadeInLeft" data-wow-delay="0.2s">
@@ -193,9 +166,9 @@
 
         <!-- 模版 -->
         <div class="services-section text-center" id="services"><!-- Services section (small) with icons -->
-            <div class="u-container clearfix">
-                <div class="u-col-md-8 u-col-md-offset-2 padding-0">
-                    <div class="services-content">
+            <div class="u-container clearfix padding-top-30">
+                <div class="u-col-md-8 u-col-md-offset-2 ">
+                    <div class="services-content padding-0">
                         <h1 class="wow fadeInUp">从选择选择合适您的模版开始</h1>
                         <p class="wow fadeInUp" data-wow-delay="0.1s">
 
@@ -208,9 +181,9 @@
                     <div class="services">
                         <div class="u-col-sm-12 wow fadeInUp" data-wow-delay="0.1s">
                             <div>
-                                <img src="images/app.png"  alt="Service" />
+                                <img class="img-responsive" src="images/app.png"  alt="Service" />
                             </div>
-                            <div class="services-description margin-top-10">
+                            <div class="services-description margin-top-30">
                                 <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="#">开始选择您需要的模版</a>
                             </div>
                         </div>
@@ -371,8 +344,6 @@
                     </div>
                     <div class="app-info">
                         <h3 class="wow fadeInUp">殷切希望与您合作</h3>
-                        <h4>Friends, Fun, Chat and beyond.</h4>
-
                     </div>
                     <div class="download-buttons wow fadeInUp">
                         <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="#">查看客户案例</a>
@@ -389,57 +360,9 @@
         </a>
 
         <!-- Scroll To Top Ends-->
-        <!-- Footer -->
-        <footer class="footer">
-            <div class="u-container">
-                <!-- Footer Head -->
-                <div class="body">
-                    <!-- Copyright -->
-                    <div class="column  w-40">
-                        <ul>
-                            <li class="footer-col-title">iuap design</li>
-                            <li class="footer-col-content">
-                                <p>聚焦前端开发，提供前端开发全链路生态，包含设计指导、前端框架集、前端开发工具集、组件库、模板库等一系列技术产品。</p>
-                            </li>
-                        </ul>
-                    </div>
 
-                    <div class="column w-40 contract-info-con">
-                        <ul>
-                            <li class="footer-col-title">加入我们</li>
-                            <li class="foot-con-info">
-                                <span>电话：010-62438768</span>
-                            </li>
-                            <li class="foot-con-info">
-                                <span>邮箱：zhaoyni@yonyou.com</span>
-                            </li>
-                            <li class="foot-con-info">
-                                <span>时间：每天9:00-17:00</span>
-                            </li>
-                        </ul>
-                    </div>
-                    <div class="column w-20 code-2d">
-                        <ul>
-                            <li>
-                                <img src="images/git-2d-code.png" width="60px" height="60px">
-                                <div class="dec-2d">
-                                    <a href="https://github.com/iuap-design" target="blank">GitHub地址</a>
-                                </div>
-                            </li>
-                            <li><img src="images/qq-2d-code.png" width="60px" height="60px">
-                                <div class="dec-2d">QQ群</div>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="copyright">
-                    <p>
-                        <span class="right-con">版权所有：用友网络科技股份有限公司 2016 京ICP备05007539号-7 京ICP证100714号 京公网安备1101080209224号 </span>
-                    </p>
-                </div>
-            </div>
-        </footer>
 
     </div>
+    {% include "footer.swig"%}
 </div>
 {% endblock %}

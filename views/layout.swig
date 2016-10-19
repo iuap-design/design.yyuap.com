@@ -13,9 +13,8 @@
     <link rel="stylesheet" href="css/magnific-popup.css">
     <link rel="stylesheet" href="css/animsition.min.css">
     <link rel="stylesheet" href="css/ionicons.min.css"> <!-- Resource style -->
-    <link rel="stylesheet" type="text/css" href="//design.yyuap.com/static/uui/latest/css/u.css">
+    <link rel="stylesheet" href="//design.yyuap.com/static/uui/latest/css/u.css">
     <link href="css/style1.css" rel="stylesheet" type="text/css" media="all" />
-
 
     {% block head%}{% endblock%}
 

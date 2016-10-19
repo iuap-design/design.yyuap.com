@@ -1086,7 +1086,7 @@ body {
 }
 
 .download-buttons {
-	margin-top: 3em;
+	margin-top: 2em;
 	margin-bottom: 5em;
 }
 
@@ -2224,5 +2224,29 @@ a {
 	margin-left: -15px;
 }
 
+@media only screen and (max-width: 767px) {
+	.features-section-2 {
+		padding-top: 30px;
+		padding-bottom: 30px;
+		background:#fff;
+
+	}
+
+}
+.setLineHeight{
+	line-height:1.4;
+}
+
+.caseContent{
+	background: #F3F3F3;
+	padding-top: 0;
+	padding-bottom: 50px;
+}
+@media  screen and (min-width: 767px) {
+	.caseContent {
+		padding-top: 50px;
+		padding-bottom: 50px;
+	}
+}
 
 
