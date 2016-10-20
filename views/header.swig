@@ -14,7 +14,7 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-right clearfix" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a  href="#main">首页</a></li>
+                    <li><a  href="/design">首页</a></li>
                     <li><a  href="//design.yyuap.com/designer/">设计器</a></li>
                     <li><a  href="//design.yyuap.com/dist/pages/template/index.html">模板中心</a></li>
                     <li><a  href="//design.yyuap.com/dist/pages/webIDE/index.html">kero</a></li>

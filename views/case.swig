@@ -218,6 +218,13 @@
                 </div>
             </div>
         </div>
+        <!-- Scroll To Top -->
+
+        <a id="back-top" class="back-to-top page-scroll" href="#main">
+            <i class="ion-ios-arrow-thin-up"></i>
+        </a>
+
+        <!-- Scroll To Top Ends-->
         {% include "footer.swig"%}
     </div>
 {% endblock %}

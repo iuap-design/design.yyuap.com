@@ -2234,7 +2234,7 @@ a {
 
 }
 .setLineHeight{
-	line-height:1.4;
+	line-height:1.5;
 }
 
 .caseContent{
@@ -2247,6 +2247,12 @@ a {
 		padding-top: 50px;
 		padding-bottom: 50px;
 	}
+}
+.foot_background{
+	background-color: #333;
+}
+.setFootColor{
+	color: rgba(255, 255, 255, 0.6);
 }
 
 
