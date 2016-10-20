@@ -9,7 +9,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand page-scroll" href="#main"><img src="logos/logox.png" height="40" width="174" alt="Mu" /></a>
+                <a  href="/design"><img src="logos/logox.png" height="40" width="174" alt="Mu" /></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-right clearfix" id="bs-example-navbar-collapse-1">

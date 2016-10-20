@@ -120,7 +120,7 @@
                     <div class="u-row text-center">
                         <div class="u-col-sm-3 u-col-xs-6">
                             <div class="counter-up">
-                                <div class="counter-icon">
+                                <div class="counter-icon ">
                                     <img class="img-responsive" src="images/case-3f.png" alt="">
                                 </div>
                                 <div class="counter-text">
@@ -203,17 +203,149 @@
                     </div>
                 </div>
             </div>
-            <div class="counter-section">
+            <div class="counter-section padding-top-50">
                 <div class="u-container">
-                    <div class="u-row text-center">
+                    <div class="u-row text-left">
                         <div class="u-col-sm-3 u-col-xs-6">
-                            <div class="counter-up">
+                            <ul>
+                                <div class="counter-up">
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        中国铁建
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        上海第一建筑有限公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        上海城建集团
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        中国机械工业建设总公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        安徽鲁班建设投资集团公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        北京技术投资开发有限公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        北京峡光经济技术有限公司
+                                    </li>
+                                </div>
+                            </ul>
 
-                            </div>
                         </div>
+                        <div class="u-col-sm-3 u-col-xs-6">
+                            <ul>
+                                <div class="counter-up">
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        中国铁建
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        上海第一建筑有限公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        上海城建集团
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        中国机械工业建设总公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        安徽鲁班建设投资集团公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        北京技术投资开发有限公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        北京峡光经济技术有限公司
+                                    </li>
+                                </div>
+                            </ul>
 
+                        </div>
+                        <div class="u-col-sm-3 u-col-xs-6">
+                            <ul>
+                                <div class="counter-up">
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        中国铁建
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        上海第一建筑有限公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        上海城建集团
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        中国机械工业建设总公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        安徽鲁班建设投资集团公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        北京技术投资开发有限公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        北京峡光经济技术有限公司
+                                    </li>
+                                </div>
+                            </ul>
 
+                        </div>
+                        <div class="u-col-sm-3 u-col-xs-6">
+                            <ul>
+                                <div class="counter-up">
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        中国铁建
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        上海第一建筑有限公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        上海城建集团
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        中国机械工业建设总公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        安徽鲁班建设投资集团公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        北京技术投资开发有限公司
+                                    </li>
+                                    <li>
+                                        <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                        北京峡光经济技术有限公司
+                                    </li>
+                                </div>
+                            </ul>
 
+                        </div>
                     </div>
                 </div>
             </div>
