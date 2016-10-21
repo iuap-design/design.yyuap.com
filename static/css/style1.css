@@ -2416,7 +2416,7 @@ label {
 
 }
 .comper_border_top{
-	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
 }
 .btn_show{
 	width: 13%;

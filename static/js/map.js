@@ -1,6 +1,3 @@
-/**
- * Created by Administrator on 2016/10/21.
- */
 //创建和初始化地图函数：
 function initMap(){
     createMap();//创建地图
@@ -12,7 +9,7 @@ function initMap(){
 //创建地图函数：
 function createMap(){
     var map = new BMap.Map("dituContent");//在百度地图容器中创建一个地图
-    var point = new BMap.Point(116.240947,40.072582);//定义一个中心点坐标
+    var point = new BMap.Point(116.241234,40.072748);//定义一个中心点坐标
     map.centerAndZoom(point,17);//设定地图的中心点和坐标并将地图显示在地图容器中
     window.map = map;//将map变量存储在全局
 }
@@ -28,7 +25,7 @@ function setMapEvent(){
 //地图控件添加函数：
 function addMapControl(){
     //向地图中添加缩放控件
-    var ctrl_nav = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_LARGE});
+    var ctrl_nav = new BMap.NavigationControl({anchor:BMAP_ANCHOR_TOP_LEFT,type:BMAP_NAVIGATION_CONTROL_SMALL});
     map.addControl(ctrl_nav);
     //向地图中添加缩略图控件
     var ctrl_ove = new BMap.OverviewMapControl({anchor:BMAP_ANCHOR_BOTTOM_RIGHT,isOpen:1});
@@ -39,7 +36,7 @@ function addMapControl(){
 }
 
 //标注点数组
-var markerArr = [{title:"用友软件园",content:"010-62438768",point:"116.240893|40.072044",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
+var markerArr = [{title:"iuap&nbsp;term",content:"010-62438768",point:"116.240911|40.07221",isOpen:0,icon:{w:21,h:21,l:0,t:0,x:6,lb:5}}
 ];
 //创建marker
 function addMarker(){

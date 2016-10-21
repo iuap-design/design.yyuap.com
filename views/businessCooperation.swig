@@ -42,9 +42,11 @@
 </svg>
                                     </figure>
                                     <div class="animate-effect">
-                                        <strong>we are passionate</strong>
-                                        <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec erat erat. Integer blandit, nullahendrerit,
+                                        <strong>技术支持</strong>
+                                        <p class="padding-horizontal-30">
+                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态。iuap design包含设计语言、前端基础库sparrow.js、前端UI框架neoui（样式系统、组件、插件）、应用数据管理kero、集成开发工具uba、前端模板库、前端mvvm框架helix、可视化页面设计器、组件库等一系列技术产品。
+
+                                            iuap design关注产品经理、设计师、前端工程师、全栈工程师等各种用户角色。
                                         </p>
                                     </div>
                                 </li>
@@ -56,9 +58,11 @@
 </svg>
                                     </figure>
                                     <div class="animate-effect">
-                                        <strong>honest &amp; dependable</strong>
-                                        <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec erat erat. Integer blandit, nullahendrerit,
+                                        <strong>技术咨询</strong>
+                                        <p class="padding-horizontal-30">
+                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态。iuap design包含设计语言、前端基础库sparrow.js、前端UI框架neoui（样式系统、组件、插件）、应用数据管理kero、集成开发工具uba、前端模板库、前端mvvm框架helix、可视化页面设计器、组件库等一系列技术产品。
+
+                                            iuap design关注产品经理、设计师、前端工程师、全栈工程师等各种用户角色。
                                         </p>
                                     </div>
                                 </li>
@@ -72,9 +76,11 @@
 </svg>
                                     </figure>
                                     <div class="animate-effect">
-                                        <strong>always improving</strong>
-                                        <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec erat erat. Integer blandit, nullahendrerit,
+                                        <strong>技术培训</strong>
+                                        <p class="padding-horizontal-30">
+                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态。iuap design包含设计语言、前端基础库sparrow.js、前端UI框架neoui（样式系统、组件、插件）、应用数据管理kero、集成开发工具uba、前端模板库、前端mvvm框架helix、可视化页面设计器、组件库等一系列技术产品。
+
+                                            iuap design关注产品经理、设计师、前端工程师、全栈工程师等各种用户角色。
                                         </p>
                                     </div>
 
@@ -90,9 +96,11 @@
 </svg>
                                     </figure>
                                     <div class="animate-effect">
-                                        <strong>hard working</strong>
-                                        <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec erat erat. Integer blandit, nullahendrerit,
+                                        <strong>复杂控件定制</strong>
+                                        <p class="padding-horizontal-30">
+                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态。iuap design包含设计语言、前端基础库sparrow.js、前端UI框架neoui（样式系统、组件、插件）、应用数据管理kero、集成开发工具uba、前端模板库、前端mvvm框架helix、可视化页面设计器、组件库等一系列技术产品。
+
+                                            iuap design关注产品经理、设计师、前端工程师、全栈工程师等各种用户角色。
                                         </p>
                                     </div>
                                 </li>
@@ -149,7 +157,7 @@
                                 <div class="u-row">
                                     <div class="u-col-md-6">
                                         <div class="input-field">
-                                            <input type="text" name="name" class="validate" id="name" style="border-top: 1px solid #ccc;">
+                                            <input type="text" name="name" class="validate" id="name" style="border-bottom: 1px solid #ccc;">
                                             <label for="name" class="">名字</label>
                                         </div>
 
@@ -158,8 +166,8 @@
                                     <div class="u-col-md-6">
                                         <div class="input-field">
                                             <label class="sr-only" for="email">电子邮件</label>
-                                            <input id="email" type="email" name="email" class="validate"  style="border-top: 1px solid #ccc;">
-                                            <label for="email" data-error="wrong" data-success="right" class="validate">Email</label>
+                                            <input id="email" type="email" name="email" class="validate"  style="border-bottom: 1px solid #ccc;">
+                                            <label for="email" data-error="wrong" data-success="right" class="validate">电子邮箱</label>
                                         </div>
                                     </div><!-- /.col-md-6 -->
                                 </div><!-- /.row -->
@@ -167,20 +175,20 @@
                                 <div class="u-row">
                                     <div class="u-col-md-6">
                                         <div class="input-field">
-                                            <input id="phone" type="tel" name="phone" class="validate" style="border-top: 1px solid #ccc;">
+                                            <input id="phone" type="tel" name="phone" class="validate" style="border-bottom: 1px solid #ccc;">
                                             <label for="phone">电话号码</label>
                                         </div>
                                     </div><!-- /.col-md-6 -->
 
                                     <div class="u-col-md-6">
                                         <div class="input-field">
-                                            <input id="website" type="text" name="website" class="validate" style="border-top: 1px solid #ccc;">
+                                            <input id="website" type="text" name="website" class="validate" style="border-bottom: 1px solid #ccc;">
                                             <label for="website">你的网页</label>
                                         </div>
                                     </div><!-- /.col-md-6 -->
                                     <div class="u-col-md-6">
                                         <div class="input-field">
-                                            <input id="website" type="text" name="website" class="validate" style="border-top: 1px solid #ccc;">
+                                            <input id="website" type="text" name="website" class="validate" style="border-bottom: 1px solid #ccc;">
                                             <label for="website">信息</label>
                                         </div>
                                     </div><!-- /.col-md-6 -->
