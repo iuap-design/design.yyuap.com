@@ -33,7 +33,7 @@
                                <strong class="margin-top-30 block">我们的专家交付用于能源客户创新,高效和价值驱动的解决方案</strong>
                             </header>
 
-                            <ul class="our-quality clearfix">
+                            <ul class="our-quality setLineHeight clearfix">
                                 <li class="zoom">
                                     <figure class="fade-effect"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" width="48px" height="48px" viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve" class="svg replaced-svg">
 <path fill="#333333" d="M31.918,8.813c-0.209-3.766-5.053-4.708-7.511-3.558c-1.326-5.151-9.398-6.627-13.165-1.769  C7.445,0.192-1.532,3.119,2.243,9.94c-1.277-4.14,4.899-8.59,9.061-4.042C14.362,0.903,22.632,2,23.527,7.213  c1.922-1.672,6.379-0.622,6.282,1.774c-0.078,1.866-3.064,3.688-5.443,2.434c-0.645,2.753-4.963,2.448-5.732-0.015  c-0.198,0.034-2.091,4.384-6.008,3.629c3.154,1.51,4.698,0.869,6.275-1.142c3.239,2.646,5.624,0.809,6.611-0.809  C27.91,13.576,32.166,12.373,31.918,8.813L31.918,8.813z"></path>
@@ -44,9 +44,7 @@
                                     <div class="animate-effect">
                                         <strong>技术支持</strong>
                                         <p class="padding-horizontal-30">
-                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态。iuap design包含设计语言、前端基础库sparrow.js、前端UI框架neoui（样式系统、组件、插件）、应用数据管理kero、集成开发工具uba、前端模板库、前端mvvm框架helix、可视化页面设计器、组件库等一系列技术产品。
-
-                                            iuap design关注产品经理、设计师、前端工程师、全栈工程师等各种用户角色。
+                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态.
                                         </p>
                                     </div>
                                 </li>
@@ -60,9 +58,7 @@
                                     <div class="animate-effect">
                                         <strong>技术咨询</strong>
                                         <p class="padding-horizontal-30">
-                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态。iuap design包含设计语言、前端基础库sparrow.js、前端UI框架neoui（样式系统、组件、插件）、应用数据管理kero、集成开发工具uba、前端模板库、前端mvvm框架helix、可视化页面设计器、组件库等一系列技术产品。
-
-                                            iuap design关注产品经理、设计师、前端工程师、全栈工程师等各种用户角色。
+                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态.
                                         </p>
                                     </div>
                                 </li>
@@ -78,9 +74,7 @@
                                     <div class="animate-effect">
                                         <strong>技术培训</strong>
                                         <p class="padding-horizontal-30">
-                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态。iuap design包含设计语言、前端基础库sparrow.js、前端UI框架neoui（样式系统、组件、插件）、应用数据管理kero、集成开发工具uba、前端模板库、前端mvvm框架helix、可视化页面设计器、组件库等一系列技术产品。
-
-                                            iuap design关注产品经理、设计师、前端工程师、全栈工程师等各种用户角色。
+                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态.
                                         </p>
                                     </div>
 
@@ -98,9 +92,7 @@
                                     <div class="animate-effect">
                                         <strong>复杂控件定制</strong>
                                         <p class="padding-horizontal-30">
-                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态。iuap design包含设计语言、前端基础库sparrow.js、前端UI框架neoui（样式系统、组件、插件）、应用数据管理kero、集成开发工具uba、前端模板库、前端mvvm框架helix、可视化页面设计器、组件库等一系列技术产品。
-
-                                            iuap design关注产品经理、设计师、前端工程师、全栈工程师等各种用户角色。
+                                            iuap design是面向企业级应用开发的前端集成解决方案，聚焦前端，提供前端开发全链路生态.
                                         </p>
                                     </div>
                                 </li>
