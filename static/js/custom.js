@@ -36,27 +36,8 @@ jQuery(function($) {
 
 /* ------ jQuery for Easing min -- */
 
-  $(function() {
-  $('a.page-scroll').bind('click', function(event) {
-      var $anchor = $(this);
-      $('html, body').stop().animate({
-          scrollTop: $($anchor.attr('href')).offset().top
-      }, 1500, 'easeInOutExpo');
-      event.preventDefault();
-  });
-});
 
 /* ----- Magnific Popup ----- */
-
-/*$('.popup').magnificPopup({
-  disableOn: 0,
-  type: 'iframe',
-  mainClass: 'mfp-fade',
-  removalDelay: 160,
-  preloader: false,
-
-  fixedContentPos: false
-});*/
 
 
 /* ----- Jarallax Init ----- */
@@ -92,7 +73,6 @@ $('.counter').counterUp({
  });
  // scroll body to 0px on click
  $('#back-top').on('click', function () {
-   $('#back-top').tooltip('hide');
    $('body,html').animate({
        scrollTop: 0
    }, 1500);
@@ -123,13 +103,6 @@ $('.counter').counterUp({
     overlayParentElement : 'body',
     transition: function(url){ window.location.href = url; }
   });
-
-/* $(".showLinkList").click(function(){
-     $("#bs-example-navbar-collapse-1").removeClass("collapse ");
-     $("#bs-example-navbar-collapse-1").addClass("nav_list_show");
-     $(".navbar-default .navbar-collapse").css("background","#fff");
- })*/
-
 
 
 });

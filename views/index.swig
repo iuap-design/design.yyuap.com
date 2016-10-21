@@ -18,7 +18,7 @@
                                 <p class="wow fadeInUp font-size-18" data-wow-delay="0.1s">
                                     全新企业级应用框架
                                 </p>
-                                <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="#">开源版本试用</a>
+                                <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="http://tinper.org">开源版本试用</a>
                             </div>
                         </div>
                     </div>
@@ -155,7 +155,7 @@
                         <p>
                             控件、组件、布局完全依赖neoui
                         </p>
-                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="#">开始您的创意之旅</a>
+                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="//design.yyuap.com/designer/">开始您的创意之旅</a>
 
                     </div>
                 </div>
@@ -184,7 +184,7 @@
                                 <img class="img-responsive" src="images/app.png"  alt="Service" />
                             </div>
                             <div class="services-description margin-top-30">
-                                <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="#">开始选择您需要的模版</a>
+                                <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="//design.yyuap.com/dist/pages/template/index.html">开始选择您需要的模版</a>
                             </div>
                         </div>
 
@@ -195,8 +195,8 @@
 
 
         <!-- kero -->
-        <div class="flex-features" >
-            <div class="u-container nopadding">
+        <div class="koBackground" >
+            <div class="u-container">
                 <div class="flex-split"><!-- Feature section with flex layout -->
                     <div class="f-left">
                         <div class="left-content wow fadeInUp">
@@ -213,7 +213,7 @@
                                 <li><i class="ion-android-checkbox-outline"></i>支持IE8+、chrome、firefox、safari等主流浏览器</li>
                                 <li><i class="ion-android-checkbox-outline"></i>100%响应，一次开发适配多种终端设备，兼容不同分辨率</li>
                             </ul>
-                            <button class="btn btn-primary btn-action btn-fill">查看kero文档</button>
+                            <button class="btn btn-primary btn-action btn-fill"><a href="//design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a></button>
                         </div>
                     </div>
                 </div>
@@ -346,8 +346,8 @@
                         <h3 class="wow fadeInUp">殷切希望与您合作</h3>
                     </div>
                     <div class="download-buttons wow fadeInUp">
-                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="#">查看客户案例</a>
-                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="#">合作咨询</a>
+                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="./aboutUS">查看客户案例</a>
+                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="./businessCooperation">合作咨询</a>
                     </div>
                 </div>
             </div>

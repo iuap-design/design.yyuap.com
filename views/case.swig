@@ -15,23 +15,23 @@
                                     <p class="wow fadeInUp font-size-18" data-wow-delay="0.1s">
                                         专业前端FED团队支持，快速响应、快速迭代
                                     </p>
-                                    <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="#">合作咨询</a>
+                                    <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="./businessCooperation">合作咨询</a>
                                 </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="services-section text-center clearfix" id="services">
+            <div class=" text-center clearfix" id="services">
                 <div class="u-container clearfix">
-                     <div class="u-row">
-                         <div class="u-col-md-8 u-col-md-offset-2 ">
-                             <div class="services-content">
-                                 <h1 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">产品新推出，已经超过100+家用户正在使用</h1>
-                                 </p>
-                             </div>
-                         </div>
-                     </div>
+                    <div class="u-row">
+                        <div class="u-col-md-8 u-col-md-offset-2 ">
+                            <div class="services-content">
+                                <h1 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">产品新推出，已经超过100+家用户正在使用</h1>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
 
                 </div>
             </div>
@@ -120,7 +120,7 @@
                     <div class="u-row text-center">
                         <div class="u-col-sm-3 u-col-xs-6">
                             <div class="counter-up">
-                                <div class="counter-icon ">
+                                <div class="padding-15 ">
                                     <img class="img-responsive" src="images/case-3f.png" alt="">
                                 </div>
                                 <div class="counter-text">
@@ -130,7 +130,7 @@
                         </div>
                         <div class="u-col-sm-3 u-col-xs-6">
                             <div class="counter-up">
-                                <div class="counter-icon">
+                                <div class="padding-15">
                                     <img class="img-responsive" src="images/case-3f.png" alt="">
                                 </div>
                                 <div class="counter-text">
@@ -140,7 +140,7 @@
                         </div>
                         <div class="u-col-sm-3 u-col-xs-6">
                             <div class="counter-up">
-                                <div class="counter-icon">
+                                <div class="padding-15">
                                     <img class="img-responsive" src="images/case-3f.png" alt="">
                                 </div>
                                 <div class="counter-text">
@@ -150,7 +150,7 @@
                         </div>
                         <div class="u-col-sm-3 u-col-xs-6">
                             <div class="counter-up">
-                                <div class="counter-icon">
+                                <div class="padding-15">
                                     <img class="img-responsive" src="images/case-3f.png" alt="">
                                 </div>
                                 <div class="counter-text">
@@ -160,7 +160,7 @@
                         </div>
                         <div class="u-col-sm-3 u-col-xs-6">
                             <div class="counter-up">
-                                <div class="counter-icon">
+                                <div class="padding-15">
                                     <img class="img-responsive" src="images/case-3f.png" alt="">
                                 </div>
                                 <div class="counter-text">
@@ -170,7 +170,7 @@
                         </div>
                         <div class="u-col-sm-3 u-col-xs-6">
                             <div class="counter-up">
-                                <div class="counter-icon">
+                                <div class="padding-15">
                                     <img class="img-responsive" src="images/case-3f.png" alt="">
                                 </div>
                                 <div class="counter-text">
@@ -180,7 +180,7 @@
                         </div>
                         <div class="u-col-sm-3 u-col-xs-6">
                             <div class="counter-up">
-                                <div class="counter-icon">
+                                <div class="padding-15">
                                     <img class="img-responsive" src="images/case-3f.png" alt="">
                                 </div>
                                 <div class="counter-text">
@@ -190,7 +190,7 @@
                         </div>
                         <div class="u-col-sm-3 u-col-xs-6">
                             <div class="counter-up">
-                                <div class="counter-icon">
+                                <div class="padding-15">
                                     <img class="img-responsive" src="images/case-3f.png" alt="">
                                 </div>
                                 <div class="counter-text">
@@ -352,7 +352,7 @@
         </div>
         <!-- Scroll To Top -->
 
-        <a id="back-top" class="back-to-top page-scroll" href="#main">
+        <a id="back-top" class="back-to-top" href="#main">
             <i class="ion-ios-arrow-thin-up"></i>
         </a>
 
