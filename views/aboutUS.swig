@@ -39,16 +39,12 @@
                                 <div class="team-person">
                                     <img src="images/team1.png" alt="">
                                     <div class="team-profile">
-                                        <h5>Michael Broad</h5>
-                                        <p>CO Founder</p>
+                                        <h5 class="green-A700">IUAP</h5>
                                         <p class="about-team-person">
                                             cc
                                         </p>
-                                        <ul class="team-social-media">
-                                            <li><a href="#0"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#0"><i class="fa fa-dribbble"></i></a></li>
-                                            <li><a href="#0"><i class="fa fa-twitter"></i></a></li>
-                                        </ul>
+
+
                                     </div> <!-- end team-profile -->
                                 </div><!-- end team-person -->
                             </div><!-- end col-xs-4 -->
@@ -56,16 +52,11 @@
                                 <div class="team-person">
                                     <img src="images/team2.png" alt="">
                                     <div class="team-profile">
-                                        <h5>Susan Robert</h5>
-                                        <p>Founder</p>
+                                        <h5 class="green-A700">IUAP</h5>
                                         <p class="about-team-person">
                                            bb
                                         </p>
-                                        <ul class="team-social-media">
-                                            <li><a href="#0"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#0"><i class="fa fa-dribbble"></i></a></li>
-                                            <li><a href="#0"><i class="fa fa-twitter"></i></a></li>
-                                        </ul>
+
                                     </div> <!-- end team-profile -->
                                 </div><!-- end team-person -->
                             </div><!-- end col-xs-4 -->
@@ -73,16 +64,11 @@
                                 <div class="team-person">
                                     <img src="images/team3.png" alt="">
                                     <div class="team-profile">
-                                        <h5>Johne Doeson</h5>
-                                        <p>CO Founder</p>
+                                        <h5 class="green-A700">IUAP</h5>
                                         <p class="about-team-person">
-                                           aa
+                                           CC
                                         </p>
-                                        <ul class="team-social-media">
-                                            <li><a href="#0"><i class="fa fa-facebook"></i></a></li>
-                                            <li><a href="#0"><i class="fa fa-dribbble"></i></a></li>
-                                            <li><a href="#0"><i class="fa fa-twitter"></i></a></li>
-                                        </ul>
+
                                     </div><!-- end team-profile -->
                                 </div><!-- end team-person -->
                             </div><!-- end col-xs-4 -->

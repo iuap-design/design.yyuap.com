@@ -2544,6 +2544,15 @@ label {
 	visibility: hidden;
 	transition: all 0.5s;
 }
+.team-person:hover img {
+	-webkit-filter: grayscale(0);
+	filter: grayscale(0);
+}
+.team-person:hover .team-profile {
+	margin: 0;
+	opacity: 1;
+	visibility: visible;
+}
 .team-profile .about-team-person {
 	margin: 10px 0;
 	font-size: 13px;
