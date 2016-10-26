@@ -115,7 +115,7 @@
                 </div>
             </section>
             <div style="width:100%;height:400px;border:#ccc solid 1px;" id="dituContent"></div>
-            <section  class="flat-section padding-bottom-0">
+            <section  class="flat-section padding-bottom-0" style="display:none">
                 <div class="u-container">
                     <div class="u-row">
 
