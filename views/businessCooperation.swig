@@ -164,7 +164,7 @@
                                 <div class="u-col-md-6">
                                     <div class="input-field">
                                         <input id="name" type="text" name="name" class="validate" id="name"
-                                               style="border-bottom: 1px solid #ccc;"
+                                               style="border-bottom: 1px solid #ccc;border-bottom-color:#ccc!important;"
                                                uvalidate='{"required":true,"reg":"^.*$","hasSuccess": true,"notipFlag": true,"nullMsg":"内容不能为空"}'>
                                         <label for="name" class="">名字</label>
                                     </div>
