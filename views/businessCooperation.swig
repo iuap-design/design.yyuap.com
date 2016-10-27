@@ -162,7 +162,8 @@
 
                             <div class="u-row">
                                 <div class="u-col-md-6">
-                                    <div class="input-field">
+                                    <div class="">
+                                        <div class="u-input-group-before padding-left-10 " style="color: red;">*</div>
                                         <input id="name" type="text" name="name" class="validate" id="name"
                                                style="border-bottom: 1px solid #ccc;border-bottom-color:#ccc!important;"
                                                uvalidate='{"required":true,"reg":"^.*$","hasSuccess": true,"notipFlag": true,"nullMsg":"内容不能为空"}'>
@@ -173,11 +174,13 @@
                                 <!-- /.col-md-6 -->
 
                                 <div class="u-col-md-6">
-                                    <div class="input-field">
+                                    <div class="">
                                         <label class="sr-only" for="email">电子邮件</label>
+
+                                        <div class="u-input-group-before padding-left-10 " style="color: red;">*</div>
                                         <input id="email" type="email" name="email" class="validate"
                                                style="border-bottom: 1px solid #ccc;"
-                                               uvalidate='{"required":true,"validType":"email","hasSuccess": true,"notipFlag": true}'>
+                                               uvalidate='{"required":true,"validType":"email","hasSuccess": true,"notipFlag": true,"nullMsg":"内容不能为空"}'>
                                         <label for="email" data-error="wrong" data-success="right"
                                                class="validate">电子邮箱</label>
                                     </div>
@@ -189,6 +192,7 @@
                             <div class="u-row">
                                 <div class="u-col-md-6">
                                     <div class="input-field">
+                                        <div class="u-input-group-before padding-left-10 " style="color: red;">*</div>
                                         <input id="phone" type="tel" name="phone" class="validate"
                                                style="border-bottom: 1px solid #ccc;"
                                                uvalidate='{"required":true,"validType":"phone","hasSuccess": true,"notipFlag": true,"nullMsg":"内容不能为空"}'>
@@ -249,8 +253,6 @@
     {% block script %}
     <script type="text/javascript" src="http://api.map.baidu.com/api?key=&v=1.1&services=true"></script>
     <script type="text/javascript" src="js/map.js"></script>
-
-
     <script type="text/javascript" src="js/jquery-2.1.1.js"></script>
     <script type="text/javascript" src="http://design.yyuap.com/static/uui/latest/js/u.js"></script>
     <script src="../js/cooperUF.js"></script>

@@ -2355,7 +2355,7 @@ svg:not(:root) {
 	text-align: center;
 }
 .input-field {
-	margin-top: 45px;
+	margin-top: 25px;
 }
 @media only screen and (min-width: 1200px) {
 	html {
@@ -2583,4 +2583,8 @@ ul.team-social-media li a {
 
 	background: #ccc;
 
+}
+/*2016.10.27 businessCooperation input color*/
+input.validate{
+	border-bottom-color: #ccc;
 }
