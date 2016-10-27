@@ -1,24 +1,28 @@
 {% extends 'layout.swig' %}
 
 {% block content %}
-<div class="wrap animsition" data-animsition-in-class="fade-in" data-animsition-in-duration="1000" data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
+<div class="wrap animsition" data-animsition-in-class="fade-in" data-animsition-in-duration="1000"
+     data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
 
     {% include "header.swig"%}
     <div class="main" id="main"><!-- Main Section-->
-        <div class="jarallax">
+        <div class="jarallax" id="jarallax">
             <div class="text-center">
                 <div class="u-container">
                     <div class="u-row">
                         <div class="hero-content">
                             <div class="u-col-md-8  u-col-md-offset-2 padding-0">
                                 <h1 class="wow fadeInUp u-col-xs-12">前端集成解决方案，为企业级应用开发而生</h1>
+
                                 <p class="wow fadeInUp font-size-18" data-wow-delay="0.1s">
                                     重塑前端
                                 </p>
+
                                 <p class="wow fadeInUp font-size-18" data-wow-delay="0.1s">
                                     全新企业级应用框架
                                 </p>
-                                <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="http://tinper.org">开源版本试用</a>
+                                <a target="_blank" class="u-button u-button-primary btn-action popup wow fadeInUp"
+                                   data-wow-delay="0.2s" href="http://tinper.org">开源版本试用</a>
                             </div>
                         </div>
                     </div>
@@ -31,8 +35,10 @@
                 <div class="u-col-md-8 u-col-md-offset-2 ">
                     <div class="services-content">
                         <h1 class="wow fadeInUp">iuap design商业版提供更多增值服务.</h1>
+
                         <p class="wow fadeInUp" data-wow-delay="0.1s">
-                            iuap design 是一个企业级前端集成解决方案，基于开源前端技术平台tinper上，给用户提供前端模型框架kero、在线模板中心、强大的在线可视化页面设计器以及丰富的企业应用开发架构方案，并且提供技术咨询和技术培训，帮助用户快速构建应用。
+                            iuap design
+                            是一个企业级前端集成解决方案，基于开源前端技术平台tinper上，给用户提供前端模型框架kero、在线模板中心、强大的在线可视化页面设计器以及丰富的企业应用开发架构方案，并且提供技术咨询和技术培训，帮助用户快速构建应用。
                         </p>
                     </div>
                 </div>
@@ -40,10 +46,11 @@
                     <div class="services">
                         <div class="u-col-sm-4 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="services-icon">
-                                <img src="logos/icon1.png" height="60" width="60" alt="Service" />
+                                <img src="logos/icon1.png" height="60" width="60" alt="Service"/>
                             </div>
                             <div class="services-description">
                                 <h1>在线设计器</h1>
+
                                 <p>
                                     Iiuap design在线设计器是一个允许设计师在线设计响应式网页、
                                     企业级管理应用，无需程序工程师参与的平台工具，
@@ -53,10 +60,11 @@
                         </div>
                         <div class="u-col-sm-4 wow fadeInUp" data-wow-delay="0.2s">
                             <div class="services-icon ">
-                                <img class="icon-2" src="logos/icon2.png" height="60" width="60" alt="Service" />
+                                <img class="icon-2" src="logos/icon2.png" height="60" width="60" alt="Service"/>
                             </div>
                             <div class="services-description">
                                 <h1>丰富的模版库</h1>
+
                                 <p>
                                     模版库的精选模版全部基于iuap design的neoui开发而来,
                                     模版以满足B端企业级开发为主.
@@ -66,10 +74,11 @@
                         </div>
                         <div class="u-col-sm-4 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="services-icon">
-                                <img class="icon-3" src="logos/icon3.png" height="60" width="60" alt="Service" />
+                                <img class="icon-3" src="logos/icon3.png" height="60" width="60" alt="Service"/>
                             </div>
                             <div class="services-description">
                                 <h1>双MV模型框架</h1>
+
                                 <p>
                                     Kero是一个基于knockout扩展的类库，做为MVVM架构中Model层的增强，主要用于处理企业级复杂数据交互。
                                 </p>
@@ -85,17 +94,28 @@
                 <div class="u-row flex-split ">
                     <div class="u-col-4">
                         <div class="left-content wow fadeInUp">
-                            <img class="img-responsive" src="images/feature_1.png" alt="" />
+                            <img class="img-responsive" src="images/feature_1.png" alt=""/>
                         </div>
                     </div>
                     <div class="u-col-6 u-col-md-offset-2">
                         <div class=" wow fadeInUp" data-wow-delay="0.2s">
                             <h2 class="">更好的企业应用体验.</h2>
                             <h4 class="">框架体积、执行效率均已深度优化，显著提升前端性能</h4>
+
                             <div class="u-row">
-                                <div class="u-col-12"><div class="example-col-li"><i class="ion-android-checkbox-outline"></i>基于iuap design设计语言，所有页面规范、标准、一致</div></div>
-                                <div class="u-col-12"><div class="example-col-li"><i class="ion-android-checkbox-outline"></i>支持IE8+、chrome、firefox、safari等主流浏览器</div></div>
-                                <div class="u-col-12"><div class="example-col-li"><i class="ion-android-checkbox-outline"></i>100%响应，一次开发适配多种终端设备，兼容不同分辨率</div></div>
+                                <div class="u-col-12">
+                                    <div class="example-col-li"><i class="ion-android-checkbox-outline"></i>基于iuap
+                                        design设计语言，所有页面规范、标准、一致
+                                    </div>
+                                </div>
+                                <div class="u-col-12">
+                                    <div class="example-col-li"><i class="ion-android-checkbox-outline"></i>支持IE8+、chrome、firefox、safari等主流浏览器
+                                    </div>
+                                </div>
+                                <div class="u-col-12">
+                                    <div class="example-col-li"><i class="ion-android-checkbox-outline"></i>100%响应，一次开发适配多种终端设备，兼容不同分辨率
+                                    </div>
+                                </div>
                             </div>
 
                             <button class="u-btn u-btn-primary btn-action btn-fill margin-5">了解我们的设计语言</button>
@@ -111,11 +131,24 @@
                         <div class=" wow fadeInUp" data-wow-delay="0.2s">
                             <h2 class="">关注更多的使用者.</h2>
                             <h4 class=""> iuap design希望团队所有参与者的沟通能够基于共同的设计语言.</h4>
+
                             <div class="u-row">
-                                <div class="u-col-12"><div class="example-col-li"><i class="ion-android-checkbox-outline"></i>为产品终极用户，提供细致入微的用户体验.</div></div>
-                                <div class="u-col-12"><div class="example-col-li"><i class="ion-android-checkbox-outline"></i>设计师无需代码编写，快速html原型实现.</div></div>
-                                <div class="u-col-12"><div class="example-col-li"><i class="ion-android-checkbox-outline"></i>FE前端工程师可以实现快速前端构建.</div></div>
-                                <div class="u-col-12"><div class="example-col-li"><i class="ion-android-checkbox-outline"></i>产品经理可以更直观的预见产品前端展现.</div></div>
+                                <div class="u-col-12">
+                                    <div class="example-col-li"><i class="ion-android-checkbox-outline"></i>为产品终极用户，提供细致入微的用户体验.
+                                    </div>
+                                </div>
+                                <div class="u-col-12">
+                                    <div class="example-col-li"><i class="ion-android-checkbox-outline"></i>设计师无需代码编写，快速html原型实现.
+                                    </div>
+                                </div>
+                                <div class="u-col-12">
+                                    <div class="example-col-li"><i class="ion-android-checkbox-outline"></i>FE前端工程师可以实现快速前端构建.
+                                    </div>
+                                </div>
+                                <div class="u-col-12">
+                                    <div class="example-col-li"><i class="ion-android-checkbox-outline"></i>产品经理可以更直观的预见产品前端展现.
+                                    </div>
+                                </div>
                             </div>
 
                             <button class="u-btn u-btn-primary btn-action btn-fill">了解我们的设计语言</button>
@@ -123,7 +156,7 @@
                     </div>
                     <div class="u-col-4 u-col-md-offset-2">
                         <div class="left-content wow fadeInUp" data-wow-delay="0.2s">
-                            <img class="img-responsive" src="images/feature_2all.png" alt="" />
+                            <img class="img-responsive" src="images/feature_2all.png" alt=""/>
                         </div>
                     </div>
 
@@ -146,16 +179,20 @@
                         <p>
                             预制常用基础布局模版
                         </p>
+
                         <p>
                             直接编辑模版库文件或自行设计模版
                         </p>
+
                         <p>
                             仅仅依靠拖拽及属性设置实现，无需代码编写
                         </p>
+
                         <p>
                             控件、组件、布局完全依赖neoui
                         </p>
-                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="//design.yyuap.com/designer/">开始您的创意之旅</a>
+                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
+                           href="//design.yyuap.com/designer/">开始您的创意之旅</a>
 
                     </div>
                 </div>
@@ -170,6 +207,7 @@
                 <div class="u-col-md-8 u-col-md-offset-2 ">
                     <div class="services-content padding-0">
                         <h1 class="wow fadeInUp">从选择选择合适您的模版开始</h1>
+
                         <p class="wow fadeInUp" data-wow-delay="0.1s">
 
                             在线模板中心，所有模版均基于tinper里面的neoui框架，源自实际业务具有真实场景应用。
@@ -181,10 +219,11 @@
                     <div class="services">
                         <div class="u-col-sm-12 wow fadeInUp" data-wow-delay="0.1s">
                             <div>
-                                <img class="img-responsive" src="images/app.png"  alt="Service" />
+                                <img class="img-responsive" src="images/app.png" alt="Service"/>
                             </div>
                             <div class="services-description margin-top-30">
-                                <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="//design.yyuap.com/dist/pages/template/index.html">开始选择您需要的模版</a>
+                                <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
+                                   href="/index.swig/design.yyuap.com/dist/pages/template/index.html">开始选择您需要的模版</a>
                             </div>
                         </div>
 
@@ -195,17 +234,18 @@
 
 
         <!-- kero -->
-        <div class="koBackground" >
+        <div class="koBackground">
             <div class="u-container">
                 <div class="flex-split"><!-- Feature section with flex layout -->
                     <div class="f-left">
                         <div class="left-content wow fadeInUp">
-                            <img class="img-responsive" src="images/feature_kero.png" alt="" />
+                            <img class="img-responsive" src="images/feature_kero.png" alt=""/>
                         </div>
                     </div>
                     <div class="f-right">
                         <div class="right-content wow fadeInUp" data-wow-delay="0.2s">
                             <h2>Kero.</h2>
+
                             <p>使用Kero，能够
                             </p>
                             <ul>
@@ -213,7 +253,9 @@
                                 <li><i class="ion-android-checkbox-outline"></i>支持IE8+、chrome、firefox、safari等主流浏览器</li>
                                 <li><i class="ion-android-checkbox-outline"></i>100%响应，一次开发适配多种终端设备，兼容不同分辨率</li>
                             </ul>
-                            <button class="btn btn-primary btn-action btn-fill"><a href="//design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a></button>
+                            <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
+                               href="/index.swig/design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a>
+                            <!--<button class="btn btn-primary btn-action btn-fill"><a href="/index.swig/design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a></button>-->
                         </div>
                     </div>
                 </div>
@@ -231,6 +273,7 @@
                                 <i class="ion-android-download"></i>
                             </div>
                             <h3><span class="counter">50</span>+</h3>
+
                             <div class="counter-text">
                                 <h4>用户已经展开深度合作</h4>
                             </div>
@@ -242,6 +285,7 @@
                                 <i class="ion-cube"></i>
                             </div>
                             <h3><span class="counter">466</span>＋</h3>
+
                             <div class="counter-text">
                                 <h4>项目正在使用</h4>
                             </div>
@@ -254,6 +298,7 @@
                                 <i class="ion-ios-paper"></i>
                             </div>
                             <h3><span class="counter">31</span></h3>
+
                             <div class="counter-text">
                                 <h4>In Press</h4>
                             </div>
@@ -265,6 +310,7 @@
                                 <i class="ion-ios-people"></i>
                             </div>
                             <h3><span class="counter">1000</span>+</h3>
+
                             <div class="counter-text">
                                 <h4>开发者正在参与</h4>
                             </div>
@@ -280,10 +326,15 @@
                 <div class="u-row text-center">
                     <div class="u-col-md-12">
                         <div class="testimonials owl-carousel owl-theme">
-                            <div class="testimonial-single"><img class="img-circle" src="images/testimonial1.png" alt="Client Testimonoal" />
+                            <div class="testimonial-single"><img class="img-circle" src="images/testimonial1.png"
+                                                                 alt="Client Testimonoal"/>
+
                                 <div class="testimonial-text">
-                                    <p>根据具体业务需求能够快速构建界面、体验优秀的跨屏效果、并且可适配主流的浏览器。<br class="hidden-xs">组件简单易用，样式丰富，配置灵活，使web开发更快捷。</p>
+                                    <p>根据具体业务需求能够快速构建界面、体验优秀的跨屏效果、并且可适配主流的浏览器。<br class="hidden-xs">组件简单易用，样式丰富，配置灵活，使web开发更快捷。
+                                    </p>
+
                                     <h3>- 刘大非 -</h3>
+
                                     <h3>厦门象屿</h3>
                                     <i class="ion ion-star"></i>
                                     <i class="ion ion-star"></i>
@@ -292,10 +343,15 @@
                                     <i class="ion ion-ios-star-half"></i>
                                 </div>
                             </div>
-                            <div class="testimonial-single"><img class="img-circle" src="images/testimonial3.png" alt="Client Testimonoal" />
+                            <div class="testimonial-single"><img class="img-circle" src="images/testimonial3.png"
+                                                                 alt="Client Testimonoal"/>
+
                                 <div class="testimonial-text">
-                                    <p>针对用户的需求能够及时提供支持，结合自身的框架提供较为全面的组件，在实践项目开发中能够提升效率，<br class="hidden-xs"> 完成符合设计的页面制作，希望后期能够在复杂场景适用性和兼容性方面做出更好的改进。</p>
+                                    <p>针对用户的需求能够及时提供支持，结合自身的框架提供较为全面的组件，在实践项目开发中能够提升效率，<br class="hidden-xs">
+                                        完成符合设计的页面制作，希望后期能够在复杂场景适用性和兼容性方面做出更好的改进。</p>
+
                                     <h3>- 晓健 -</h3>
+
                                     <h3>NC HR</h3>
                                     <i class="ion ion-star"></i>
                                     <i class="ion ion-star"></i>
@@ -304,10 +360,15 @@
                                     <i class="ion ion-ios-star-half"></i>
                                 </div>
                             </div>
-                            <div class="testimonial-single"><img class="img-circle" src="images/testimonial2.png" alt="Client Testimonoal" />
+                            <div class="testimonial-single"><img class="img-circle" src="images/testimonial2.png"
+                                                                 alt="Client Testimonoal"/>
+
                                 <div class="testimonial-text">
-                                    <p>基于企业级Web应用场景，提供了较丰富的应用组件和自由的组合方式，基于ko开发的kero统一了前端数据模型，<br class="hidden-xs"> 提升代码的一致性和可维护性</p>
+                                    <p>基于企业级Web应用场景，提供了较丰富的应用组件和自由的组合方式，基于ko开发的kero统一了前端数据模型，<br class="hidden-xs">
+                                        提升代码的一致性和可维护性</p>
+
                                     <h3>- 江陵 -</h3>
+
                                     <h3>NC 云采</h3>
                                     <i class="ion ion-star"></i>
                                     <i class="ion ion-star"></i>
@@ -316,11 +377,16 @@
                                     <i class="ion ion-star"></i>
                                 </div>
                             </div>
-                            <div class="testimonial-single"><img class="img-circle" src="images/testimonial3.png" alt="Client Testimonoal" />
+                            <div class="testimonial-single"><img class="img-circle" src="images/testimonial3.png"
+                                                                 alt="Client Testimonoal"/>
+
                                 <div class="testimonial-text">
-                                    <p>主流的MVVM技术架构，开发人员容易上手，遇到问题能够较快捷的提供相关支持，issue能够及时的给出反馈；提供了丰富的基础组件、样式模板，并方便个性化调整；版本升级成本较低。
+                                    <p>
+                                        主流的MVVM技术架构，开发人员容易上手，遇到问题能够较快捷的提供相关支持，issue能够及时的给出反馈；提供了丰富的基础组件、样式模板，并方便个性化调整；版本升级成本较低。
                                         <br class="hidden-xs"> 希望后续能够持续的提供详细的使用手册API及良好的兼容性。</p>
+
                                     <h3>- 孝启 -</h3>
+
                                     <h3>数字营销</h3>
                                     <i class="ion ion-star"></i>
                                     <i class="ion ion-star"></i>
@@ -340,14 +406,16 @@
             <div class="u-container">
                 <div class="u-col-md-12 text-center">
                     <div class="app-img">
-                        <img class="wow fadeInUp" src="logos/logox.png" height="40" width="173" alt="" />
+                        <img class="wow fadeInUp" src="logos/logox.png" height="40" width="173" alt=""/>
                     </div>
                     <div class="app-info">
                         <h3 class="wow fadeInUp">殷切希望与您合作</h3>
                     </div>
                     <div class="download-buttons wow fadeInUp">
-                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="./aboutUS">查看客户案例</a>
-                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s" href="./businessCooperation">合作咨询</a>
+                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
+                           href="./aboutUS">查看客户案例</a>
+                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
+                           href="./businessCooperation">合作咨询</a>
                     </div>
                 </div>
             </div>
