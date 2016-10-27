@@ -161,10 +161,10 @@
                         <form name="contact-form" id="contactForm" action="/form/add" method="POST">
 
                             <div class="u-row">
-                                <div class="u-col-md-6">
-                                    <div class="">
-                                        <div class="u-input-group-before padding-left-10 " style="color: red;">*</div>
-                                        <input id="name" type="text" name="name" class="validate" id="name"
+                                <div class="u-col-md-6 margin-bottom-20">
+                                    <div class="input-field">
+                                        <div class="u-input-group-before margin-top-5 " style="color: red;">*</div>
+                                        <input id="name" type="text" name="name" class="validate padding-left-15" id="name"
                                                style="border-bottom: 1px solid #ccc;border-bottom-color:#ccc!important;"
                                                uvalidate='{"required":true,"reg":"^.*$","hasSuccess": true,"notipFlag": true,"nullMsg":"内容不能为空"}'>
                                         <label for="name" class="">名字</label>
@@ -173,12 +173,11 @@
                                 </div>
                                 <!-- /.col-md-6 -->
 
-                                <div class="u-col-md-6">
-                                    <div class="">
+                                <div class="u-col-md-6 margin-bottom-20">
+                                    <div class="input-field">
                                         <label class="sr-only" for="email">电子邮件</label>
-
-                                        <div class="u-input-group-before padding-left-10 " style="color: red;">*</div>
-                                        <input id="email" type="email" name="email" class="validate"
+                                        <div class="u-input-group-before margin-top-5 " style="color: red;">*</div>
+                                        <input id="email" type="email" name="email" class="validate padding-left-15"
                                                style="border-bottom: 1px solid #ccc;"
                                                uvalidate='{"required":true,"validType":"email","hasSuccess": true,"notipFlag": true,"nullMsg":"内容不能为空"}'>
                                         <label for="email" data-error="wrong" data-success="right"
@@ -190,10 +189,10 @@
                             <!-- /.row -->
 
                             <div class="u-row">
-                                <div class="u-col-md-6">
+                                <div class="u-col-md-6 margin-bottom-20">
                                     <div class="input-field">
-                                        <div class="u-input-group-before padding-left-10 " style="color: red;">*</div>
-                                        <input id="phone" type="tel" name="phone" class="validate"
+                                        <div class="u-input-group-before margin-top-5  " style="color: red;">*</div>
+                                        <input id="phone" type="tel" name="phone" class="validate padding-left-15"
                                                style="border-bottom: 1px solid #ccc;"
                                                uvalidate='{"required":true,"validType":"phone","hasSuccess": true,"notipFlag": true,"nullMsg":"内容不能为空"}'>
                                         <label for="phone">电话号码</label>
@@ -201,7 +200,7 @@
                                 </div>
                                 <!-- /.col-md-6 -->
 
-                                <div class="u-col-md-6">
+                                <div class="u-col-md-6 margin-bottom-20">
                                     <div class="input-field">
                                         <input id="website" type="text" name="website" class="validate"
                                                style="border-bottom: 1px solid #ccc;">
@@ -209,7 +208,7 @@
                                     </div>
                                 </div>
                                 <!-- /.col-md-6 -->
-                                <div class="u-col-md-6">
+                                <div class="u-col-md-6 margin-bottom-20">
                                     <div class="input-field">
                                         <input id="message" type="text" name="message" class="validate"
                                                style="border-bottom: 1px solid #ccc;">
