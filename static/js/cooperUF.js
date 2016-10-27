@@ -11,7 +11,7 @@ $('#addUserForm').on('click',function(event){
     var data = $('#contactForm').serialize();
 
     var reg1 = /^([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\_|\.]?)*[a-zA-Z0-9]+\.[a-zA-Z]{2,3}$/;
-    var reg2=/^0?1[3|4|5|8][0-9]\d{8}$/;
+    var reg2=/^0?1[3|4|5|7|8][0-9]\d{8}$/;
 
     if(!($('#name').val()&&reg1.test($('#email').val())&&reg2.test($('#phone').val()))){
      alert('必输项不为空且格式正确');
