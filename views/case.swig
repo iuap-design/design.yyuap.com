@@ -5,7 +5,7 @@
 
         {% include "header.swig"%}
         <div class="main" id="main"><!-- Main Section-->
-            <div class="jarallax">
+            <div class="jarallax" id="jarallax">
                 <div class="text-center">
                     <div class="u-container">
                         <div class="u-row">
