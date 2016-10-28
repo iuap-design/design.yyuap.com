@@ -2708,13 +2708,10 @@ input.validate {
     -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, .08);
     box-shadow: 0 2px 4px rgba(0, 0, 0, .08);
 }
-/*
-.u-button.showLinkList{
-    width: 89%;
+
+.site-menubar-inner.height-full{
     box-shadow: 0 1px 5px 0 rgba(96, 96, 96, 0.3);
-    height: 60px;
-    margin-top: 0px;
-}*/
+}
 
 /*2016.10.28add carcousel controls*/
 .owl-prev {
@@ -2729,4 +2726,9 @@ input.validate {
 }
 span.uf.uf-anglepointingtoleft,span.uf.uf-anglearrowpointingtoright {
     font-size:30px;
+}
+
+/*2016.10.28 the appearance of li on the bottom of case page*/
+#caseBottom .counter-up li{
+    margin-top:15px;
 }
