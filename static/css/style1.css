@@ -2694,17 +2694,39 @@ input.validate {
 /*2016.10.27 mainpage side bar*/
 .page-side-bar-cl {
     position: fixed;
-    top: 65px;
-    right: 0px;
+    top: 0px;
+    right: -140px;
     z-index: 1400;
     width: 140px;
-    height: 100%;
+    height: 100%!important;
     background: #fff;
-    height: -webkit-calc(100% - 66px);
-    height: calc(100% - 66px);
+    background-image: url("../images/hero.jpg");
+    height: -webkit-calc(100% - 65px);
+    height: calc(100% - 65px);
     font-family: "Roboto", sans-serif;
     color: rgba(163, 175, 183, .9);
-
     -webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, .08);
     box-shadow: 0 2px 4px rgba(0, 0, 0, .08);
+}
+/*
+.u-button.showLinkList{
+    width: 89%;
+    box-shadow: 0 1px 5px 0 rgba(96, 96, 96, 0.3);
+    height: 60px;
+    margin-top: 0px;
+}*/
+
+/*2016.10.28add carcousel controls*/
+.owl-prev {
+    position: absolute;
+    left: 0;
+    top: 50%;
+}
+.owl-next {
+    position: absolute;
+    right: 0;
+    top: 50%;
+}
+span.uf.uf-anglepointingtoleft,span.uf.uf-anglearrowpointingtoright {
+    font-size:30px;
 }

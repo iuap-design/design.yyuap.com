@@ -325,6 +325,10 @@
             <div class="u-container">
                 <div class="u-row text-center">
                     <div class="u-col-md-12">
+
+                        <!-- Controls -->
+
+                         <!-- ControlsEnd -->
                         <div class="testimonials owl-carousel owl-theme">
                             <div class="testimonial-single"><img class="img-circle" src="images/testimonial1.png"
                                                                  alt="Client Testimonoal"/>

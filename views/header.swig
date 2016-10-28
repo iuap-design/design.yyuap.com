@@ -25,10 +25,16 @@
             </div>
             <!--new add sidebar 2016.10.27-->
             <!-- sidebar -->
-            <div class="page-side-bar hide " id="page-side-bar">
-                <div class="site-menubar-inner" style="height:100%;">
-                    <ul class="menubar">
-                        <li class="margin-20"><a href="/design">首页</a></li>
+            <div class="page-side-bar page-side-bar-cl " id="page-side-bar">
+               <button type="u-button u-button-primary" class="navbar-toggle  showLinkList" style="width:83%;">
+                                          <span class="sr-only">Toggle navigation</span>
+                                          <span class="icon-bar"></span>
+                                          <span class="icon-bar"></span>
+                                          <span class="icon-bar"></span>
+                </button>
+                <div class="site-menubar-inner margin-top-60 padding-top-10">
+                    <ul class="menubar " >
+                        <li class="margin-left-20"><a href="/design">首页</a></li>
                         <li class="margin-20"><a href="//design.yyuap.com/designer/">设计器</a></li>
                         <li class="margin-20"><a href="//design.yyuap.com/dist/pages/template/index.html">模板中心</a></li>
                         <li class="margin-20"><a href="//design.yyuap.com/dist/pages/webIDE/index.html">kero</a></li>
