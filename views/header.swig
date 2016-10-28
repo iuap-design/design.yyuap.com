@@ -19,8 +19,10 @@
                     <li><a href="//design.yyuap.com/dist/pages/template/index.html">模板中心</a></li>
                     <li><a href="//design.yyuap.com/dist/pages/webIDE/index.html">kero</a></li>
                     <li><a href="./case">案例</a></li>
+                   <!--
                     <li><a href="./businessCooperation">商务合作</a></li>
                     <li><a href="./aboutUS">关于我们</a></li>
+                    -->
                 </ul>
             </div>
             <!--new add sidebar 2016.10.27-->
@@ -32,15 +34,17 @@
                                           <span class="icon-bar"></span>
                                           <span class="icon-bar"></span>
                 </button>
-                <div class="site-menubar-inner margin-top-60 padding-top-10">
-                    <ul class="menubar " >
+                <div class="site-menubar-inner margin-top-60 padding-top-10 height-full" >
+                    <ul class="menubar height-full" >
                         <li class="margin-left-20"><a href="/design">首页</a></li>
                         <li class="margin-20"><a href="//design.yyuap.com/designer/">设计器</a></li>
                         <li class="margin-20"><a href="//design.yyuap.com/dist/pages/template/index.html">模板中心</a></li>
                         <li class="margin-20"><a href="//design.yyuap.com/dist/pages/webIDE/index.html">kero</a></li>
                         <li class="margin-20"><a href="./case">案例</a></li>
+                        <!--
                         <li class="margin-20"><a href="./businessCooperation">商务合作</a></li>
-                        <li class="margin-20"><a href="./aboutUS">关于我们</a></li>
+                                               <li class="margin-20"><a href="./aboutUS">关于我们</a></li>
+                        -->
                     </ul>
                 </div>
             </div>

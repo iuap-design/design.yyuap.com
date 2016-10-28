@@ -40,7 +40,7 @@
                     <div class="flex-split"><!-- Feature section with flex layout -->
                         <div class="f-right">
                             <div class="right-content wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                <h2>共享服务</h2>
+                                <h2>友人才</h2>
                                 <p>用友NC共享服务平台</p>
                                 <img class="img-responsive" src="images/case-hr-logo.png" alt="">
                             </div>
@@ -55,14 +55,14 @@
                     <div class="flex-split"><!-- Feature section with flex layout -->
                         <div class="f-right">
                             <div class="right-content wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                <h2>共享服务</h2>
+                                <h2>友云采</h2>
                                 <p>用友NC共享服务平台</p>
-                                <img class="img-responsive" src="images/case-hr-logo.png" alt="">
+                                <img class="img-responsive" src="images/case-yc-logo.png" alt="">
                             </div>
                         </div>
                         <div class="f-left">
                             <div class="left-content wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                <img class="img-responsive" src="images/case-hr.png" alt="">
+                                <img class="img-responsive" src="images/case-yyc.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -70,14 +70,14 @@
                     <div class="flex-split"><!-- Feature section with flex layout -->
                         <div class="f-right">
                             <div class="right-content wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                <h2>共享服务</h2>
+                                <h2>用友云审批</h2>
                                 <p>用友NC共享服务平台</p>
-                                <img class="img-responsive" src="images/case-hr-logo.png" alt="">
+                                <img class="img-responsive" src="images/case-sp-logo.png" alt="">
                             </div>
                         </div>
                         <div class="f-left">
                             <div class="left-content wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                <img class="img-responsive" src="images/case-hr.png" alt="">
+                                <img class="img-responsive" src="images/case-sp.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -85,14 +85,14 @@
                     <div class="flex-split"><!-- Feature section with flex layout -->
                         <div class="f-right">
                             <div class="right-content wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                <h2>共享服务</h2>
+                                <h2>电商通</h2>
                                 <p>用友NC共享服务平台</p>
-                                <img class="img-responsive" src="images/case-hr-logo.png" alt="">
+                                <img class="img-responsive" src="images/case-dist-logo.png" alt="">
                             </div>
                         </div>
                         <div class="f-left">
                             <div class="left-content wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                <img class="img-responsive" src="images/case-hr.png" alt="">
+                                <img class="img-responsive" src="images/case-dist.png" alt="">
                             </div>
                         </div>
                     </div>
