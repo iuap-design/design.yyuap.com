@@ -56,13 +56,13 @@
                         <div class="f-right">
                             <div class="right-content wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                                 <h2>友云采</h2>
-                                <p>用友NC共享服务平台</p>
+                                <p>用友布局企业互联网采购</p>
                                 <img class="img-responsive" src="images/case-yc-logo.png" alt="">
                             </div>
                         </div>
                         <div class="f-left">
                             <div class="left-content wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                <img class="img-responsive" src="images/case-yyc.png" alt="">
+                                <img class="img-responsive" src="images/case-yyc.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -71,13 +71,13 @@
                         <div class="f-right">
                             <div class="right-content wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                                 <h2>用友云审批</h2>
-                                <p>用友NC共享服务平台</p>
+                                <p>真正适合互联网+的云审批</p>
                                 <img class="img-responsive" src="images/case-sp-logo.png" alt="">
                             </div>
                         </div>
                         <div class="f-left">
                             <div class="left-content wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                <img class="img-responsive" src="images/case-sp.png" alt="">
+                                <img class="img-responsive" src="images/case-sp.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -86,13 +86,13 @@
                         <div class="f-right">
                             <div class="right-content wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                                 <h2>电商通</h2>
-                                <p>用友NC共享服务平台</p>
-                                <img class="img-responsive" src="images/case-dist-logo.png" alt="">
+                                <p>多电商平台一站式管理</p>
+                                <img class="img-responsive" src="images/case-dst-logo.png" alt="">
                             </div>
                         </div>
                         <div class="f-left">
                             <div class="left-content wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                <img class="img-responsive" src="images/case-dist.png" alt="">
+                                <img class="img-responsive" src="images/case-dst.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -121,7 +121,47 @@
                         <div class="u-col-sm-3 u-col-xs-6">
                             <div class="counter-up">
                                 <div class="padding-15 ">
-                                    <img class="img-responsive" src="images/case-3f.png" alt="">
+                                    <img class="img-responsive" src="images/mta.jpg" alt="">
+                                </div>
+                                <div class="counter-text">
+                                    <h4>民太安集团</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="u-col-sm-3 u-col-xs-6">
+                            <div class="counter-up">
+                                <div class="padding-15">
+                                    <img class="img-responsive" src="images/xmxy.jpg" alt="">
+                                </div>
+                                <div class="counter-text">
+                                    <h4>象屿集团</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="u-col-sm-3 u-col-xs-6">
+                            <div class="counter-up">
+                                <div class="padding-15">
+                                    <img class="img-responsive" src="images/hkcx.jpg" alt="">
+                                </div>
+                                <div class="counter-text">
+                                    <h4>华科诚信</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="u-col-sm-3 u-col-xs-6">
+                            <div class="counter-up">
+                                <div class="padding-15">
+                                    <img class="img-responsive" src="images/wlhb.jpg" alt="">
+                                </div>
+                                <div class="counter-text">
+                                    <h4>物流河北</h4>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="u-col-sm-3 u-col-xs-6">
+                            <div class="counter-up">
+                                <div class="padding-15">
+                                    <img class="img-responsive" src="images/tssy.jpg" alt="">
                                 </div>
                                 <div class="counter-text">
                                     <h4>唐山三友集团</h4>
@@ -131,79 +171,18 @@
                         <div class="u-col-sm-3 u-col-xs-6">
                             <div class="counter-up">
                                 <div class="padding-15">
-                                    <img class="img-responsive" src="images/case-3f.png" alt="">
+                                    <img class="img-responsive" src="images/qyjs.jpg" alt="">
                                 </div>
                                 <div class="counter-text">
-                                    <h4>唐山三友集团</h4>
+                                    <h4>全友家私</h4>
                                 </div>
                             </div>
                         </div>
-                        <div class="u-col-sm-3 u-col-xs-6">
-                            <div class="counter-up">
-                                <div class="padding-15">
-                                    <img class="img-responsive" src="images/case-3f.png" alt="">
-                                </div>
-                                <div class="counter-text">
-                                    <h4>唐山三友集团</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="u-col-sm-3 u-col-xs-6">
-                            <div class="counter-up">
-                                <div class="padding-15">
-                                    <img class="img-responsive" src="images/case-3f.png" alt="">
-                                </div>
-                                <div class="counter-text">
-                                    <h4>唐山三友集团</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="u-col-sm-3 u-col-xs-6">
-                            <div class="counter-up">
-                                <div class="padding-15">
-                                    <img class="img-responsive" src="images/case-3f.png" alt="">
-                                </div>
-                                <div class="counter-text">
-                                    <h4>唐山三友集团</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="u-col-sm-3 u-col-xs-6">
-                            <div class="counter-up">
-                                <div class="padding-15">
-                                    <img class="img-responsive" src="images/case-3f.png" alt="">
-                                </div>
-                                <div class="counter-text">
-                                    <h4>唐山三友集团</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="u-col-sm-3 u-col-xs-6">
-                            <div class="counter-up">
-                                <div class="padding-15">
-                                    <img class="img-responsive" src="images/case-3f.png" alt="">
-                                </div>
-                                <div class="counter-text">
-                                    <h4>唐山三友集团</h4>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="u-col-sm-3 u-col-xs-6">
-                            <div class="counter-up">
-                                <div class="padding-15">
-                                    <img class="img-responsive" src="images/case-3f.png" alt="">
-                                </div>
-                                <div class="counter-text">
-                                    <h4>唐山三友集团</h4>
-                                </div>
-                            </div>
-                        </div>
-
 
                     </div>
                 </div>
             </div>
-            <div class="counter-section padding-top-50">
+            <div class="counter-section padding-top-50" id="caseBottom">
                 <div class="u-container">
                     <div class="u-row text-left">
                         <div class="u-col-sm-3 u-col-xs-6">
