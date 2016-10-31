@@ -97,22 +97,7 @@
                         </div>
                     </div>
 
-                    <div class="flex-split"><!-- Feature section with flex layout -->
-                        <div class="f-right">
-                            <div class="right-content wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                <h2>共享服务</h2>
-                                <p>用友NC共享服务平台</p>
-                                <img class="img-responsive" src="images/case-hr-logo.png" alt="">
-                            </div>
-                        </div>
-                        <div class="f-left">
-                            <div class="left-content wow fadeInUp" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                <img class="img-responsive" src="images/case-hr.png" alt="">
-                            </div>
-                        </div>
-                    </div>
-
-
+                   
                 </div>
             </div>
             <div class="counter-section">
