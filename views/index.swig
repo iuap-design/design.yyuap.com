@@ -192,7 +192,7 @@
                             控件、组件、布局完全依赖neoui
                         </p>
                         <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                           href="//design.yyuap.com/designer/">开始您的创意之旅</a>
+                           href="//design.yyuap.com/designer/" target="_blank">开始您的创意之旅</a>
 
                     </div>
                 </div>
@@ -223,7 +223,7 @@
                             </div>
                             <div class="services-description margin-top-30">
                                 <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                                   href="/index.swig/design.yyuap.com/dist/pages/template/index.html">开始选择您需要的模版</a>
+                                   href="//172.20.15.186/mall">开始选择您需要的模版</a>
                             </div>
                         </div>
 
@@ -297,10 +297,10 @@
                             <div class="counter-icon">
                                 <i class="ion-ios-paper"></i>
                             </div>
-                            <h3><span class="counter">31</span></h3>
+                            <h3><span class="counter">10</span>+</h3>
 
                             <div class="counter-text">
-                                <h4>In Press</h4>
+                                <h4>云产品基于此开发</h4>
                             </div>
                         </div>
                     </div>

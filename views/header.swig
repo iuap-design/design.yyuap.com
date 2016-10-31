@@ -15,8 +15,8 @@
             <div class="collapse navbar-collapse navbar-right clearfix" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li><a href="/design">首页</a></li>
-                    <li><a href="//design.yyuap.com/designer/">设计器</a></li>
-                    <li><a href="//design.yyuap.com/dist/pages/template/index.html">模板中心</a></li>
+                    <li><a href="//design.yyuap.com/designer/" target="_blank">设计器</a></li>
+                    <li><a href="//172.20.15.186/mall/">模板中心</a></li>
                     <li><a href="//design.yyuap.com/dist/pages/webIDE/index.html">kero</a></li>
                     <li><a href="./case">案例</a></li>
                    <!--
@@ -37,8 +37,8 @@
                 <div class="site-menubar-inner margin-top-60 padding-top-10 height-full" >
                     <ul class="menubar height-full" >
                         <li class="margin-left-20"><a href="/design">首页</a></li>
-                        <li class="margin-20"><a href="//design.yyuap.com/designer/">设计器</a></li>
-                        <li class="margin-20"><a href="//design.yyuap.com/dist/pages/template/index.html">模板中心</a></li>
+                        <li><a href="//design.yyuap.com/designer/" target="_blank">设计器</a></li>
+                        <li><a href="//172.20.15.186/mall/">模板中心</a></li>
                         <li class="margin-20"><a href="//design.yyuap.com/dist/pages/webIDE/index.html">kero</a></li>
                         <li class="margin-20"><a href="./case">案例</a></li>
                         <!--
