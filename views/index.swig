@@ -6,7 +6,7 @@
 
     {% include "header.swig"%}
     <div class="main" id="main"><!-- Main Section-->
-        <div class="jarallax" id="jarallax">
+        <div class="jarallax center-block" id="jarallax">
             <div class="text-center">
                 <div class="u-container">
                     <div class="u-row">
@@ -46,7 +46,7 @@
                     <div class="services">
                         <div class="u-col-sm-4 wow fadeInUp" data-wow-delay="0.1s">
                             <div class="services-icon">
-                                <img src="logos/icon1.png" height="60" width="60" alt="Service"/>
+                                <img src="images/icon1.png" height="60" width="60" alt="Service"/>
                             </div>
                             <div class="services-description">
                                 <h1>在线设计器</h1>
@@ -60,7 +60,7 @@
                         </div>
                         <div class="u-col-sm-4 wow fadeInUp" data-wow-delay="0.2s">
                             <div class="services-icon ">
-                                <img class="icon-2" src="logos/icon2.png" height="60" width="60" alt="Service"/>
+                                <img class="icon-2" src="images/icon2.png" height="60" width="60" alt="Service"/>
                             </div>
                             <div class="services-description">
                                 <h1>丰富的模版库</h1>
@@ -74,7 +74,7 @@
                         </div>
                         <div class="u-col-sm-4 wow fadeInUp" data-wow-delay="0.3s">
                             <div class="services-icon">
-                                <img class="icon-3" src="logos/icon3.png" height="60" width="60" alt="Service"/>
+                                <img class="icon-3" src="images/icon3.png" height="60" width="60" alt="Service"/>
                             </div>
                             <div class="services-description">
                                 <h1>双MV模型框架</h1>

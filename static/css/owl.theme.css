@@ -12,7 +12,8 @@
 
 .owl-theme .owl-controls .owl-buttons div{
 	color: #FFF;
-	display: inline-block;
+	/*display: inline-block;*/
+	display: none;
 	zoom: 1;
 	*display: inline;/*IE7 life-saver */
 	margin: 5px;
