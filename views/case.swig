@@ -46,7 +46,7 @@
                              style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                             <h2>友人才</h2>
 
-                            <p>用友NC共享服务平台</p>
+                            <p>专业的员工服务和共享服务平台</p>
                             <img class="img-responsive" src="images/case-hr-logo.png" alt="">
                         </div>
                     </div>
