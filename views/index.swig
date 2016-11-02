@@ -254,7 +254,7 @@
                                 <li><i class="ion-android-checkbox-outline"></i>100%响应，一次开发适配多种终端设备，兼容不同分辨率</li>
                             </ul>
                             <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                               href="/index.swig/design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a>
+                               href="javascript:void(0);">查看kero文档</a>
                             <!--<button class="btn btn-primary btn-action btn-fill"><a href="/index.swig/design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a></button>-->
                         </div>
                     </div>
@@ -417,9 +417,9 @@
                     </div>
                     <div class="download-buttons wow fadeInUp">
                         <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                           href="./aboutUS">查看客户案例</a>
+                           href="javascript:void(0);">查看客户案例</a>
                         <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                           href="./businessCooperation">合作咨询</a>
+                           href="javascript:void(0);">合作咨询</a>
                     </div>
                 </div>
             </div>

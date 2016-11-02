@@ -50,7 +50,7 @@
 									<div class="u-counter-label text-uppercase">
 										<font>
 											<br>
-											<a href="https://github.com/iuap-design" target="blank">GitHub地址</a>
+											<a href="https://github.com/iuap-design" class="setFootColor" target="blank">GitHub地址</a>
 										</font>
 									</div>
 								</div>

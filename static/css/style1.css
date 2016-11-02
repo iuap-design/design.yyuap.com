@@ -189,9 +189,8 @@ body {
     font-family: Poppins;
     font-weight: 500;
     text-transform: uppercase;
-    padding-top: 20px;
+    padding-top: 10px;
     letter-spacing: 1px;
-    height: 80px;
 }
 
 .navbar-default {
