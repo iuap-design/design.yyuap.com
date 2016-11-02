@@ -1,11 +1,10 @@
 {% extends 'index.swig' %}
 
 {% block content %}
-<div class="wrap animsition" data-animsition-in-class="fade-in" data-animsition-in-duration="1000"
-     data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
+
 
     {% include "header.swig"%}
-    <div class="main" id="main"><!-- Main Section-->
+    <div class="main"><!-- Main Section-->
         <div class="jarallax" id="jarallax">
             <div class="text-center">
                 <div class="u-container">
@@ -330,14 +329,15 @@
                 </div>
             </div>
         </div>
+        <a id="back-top" class="back-to-top" href="#main">
+            <i class="ion-ios-arrow-thin-up"></i>
+        </a>
     </div>
     <!-- Scroll To Top -->
 
-    <a id="back-top" class="back-to-top" href="#main">
-        <i class="ion-ios-arrow-thin-up"></i>
-    </a>
+
 
     <!-- Scroll To Top Ends-->
     {% include "footer.swig"%}
-</div>
+
 {% endblock %}

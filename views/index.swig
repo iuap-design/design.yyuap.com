@@ -1,11 +1,10 @@
 {% extends 'layout.swig' %}
 
 {% block content %}
-<div class="wrap animsition" data-animsition-in-class="fade-in" data-animsition-in-duration="1000"
-     data-animsition-out-class="fade-out" data-animsition-out-duration="1000">
+
 
     {% include "header.swig"%}
-    <div class="main" id="main"><!-- Main Section-->
+    <div class="main"><!-- Main Section-->
         <div class="jarallax center-block" id="jarallax">
             <div class="text-center">
                 <div class="u-container">
@@ -436,5 +435,5 @@
 
     </div>
     {% include "footer.swig"%}
-</div>
+
 {% endblock %}
