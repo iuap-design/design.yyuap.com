@@ -189,7 +189,7 @@ body {
     font-family: Poppins;
     font-weight: 500;
     text-transform: uppercase;
-    padding-top: 5px;
+    padding-top: 25px;
     letter-spacing: 1px;
 }
 
@@ -242,7 +242,7 @@ body {
 }
 
 .navbar-default .navbar-nav > li:hover {
-    background-color: #8a70fc;
+   /* background-color: #8a70fc;*/
 }
 
 .navbar-default .navbar-nav > .active > a {
@@ -2740,4 +2740,12 @@ span.uf.uf-anglepointingtoleft,span.uf.uf-anglearrowpointingtoright {
 }
 .self-li-bg{
     background-color: #eeeeee;
+}
+.self-font-size{
+    font-size: 14px;
+}
+@media (max-width: 768px) {
+    .self-font-size {
+        font-size: 12px;
+    }
 }
