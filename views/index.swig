@@ -117,7 +117,8 @@
                                 </div>
                             </div>
 
-                            <button class="u-btn u-btn-primary btn-action btn-fill margin-5">了解我们的设计语言</button>
+                            <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
+                               href="//github.com/iuap-design/iuap-design-language">了解我们的设计语言</a>
                         </div>
                     </div>
                 </div>
@@ -150,7 +151,10 @@
                                 </div>
                             </div>
 
-                            <button class="u-btn u-btn-primary btn-action btn-fill">了解我们的设计语言</button>
+                            <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
+                               href="//github.com/iuap-design/iuap-design-language">了解我们的设计语言</a>
+
+
                         </div>
                     </div>
                     <div class="u-col-4 u-col-md-offset-2">
