@@ -2750,3 +2750,8 @@ span.uf.uf-anglepointingtoleft,span.uf.uf-anglearrowpointingtoright {
         font-size: 12px;
     }
 }
+.u-col-md-8.u-col-md-offset-2.padding-0.self-case-position{
+    position: absolute;
+    top: 35%;
+    left: 3%;
+}

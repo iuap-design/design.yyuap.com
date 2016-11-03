@@ -10,13 +10,13 @@
                 <div class="u-container">
                     <div class="u-row">
                         <div class="hero-content">
-                            <div class="u-col-md-8  u-col-md-offset-2 padding-0">
+                            <div class="u-col-md-8  u-col-md-offset-2 padding-0 self-case-position">
                                 <h1 class="wow fadeInUp u-col-xs-12" data-wow-delay="0.1s">越来越多的企业用户选择 iuap design</h1>
                                 <p class="wow fadeInUp font-size-18" data-wow-delay="0.1s">
                                     专业前端FED团队支持，快速响应、快速迭代
                                 </p>
-                                <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                                   href="./businessCooperation">合作咨询</a>
+                              {#  <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
+                                   href="./businessCooperation">合作咨询</a>#}
                             </div>
                         </div>
                     </div>
