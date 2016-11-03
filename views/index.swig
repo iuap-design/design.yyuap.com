@@ -76,7 +76,7 @@
                                 <img class="icon-3" src="images/icon3.png" height="60" width="60" alt="Service"/>
                             </div>
                             <div class="services-description">
-                                <h1>双MV模型框架</h1>
+                                <h1>MVVM模型框架</h1>
 
                                 <p>
                                     Kero是一个基于knockout扩展的类库，做为MVVM架构中Model层的增强，主要用于处理企业级复杂数据交互。
@@ -253,7 +253,7 @@
                                 <li><i class="ion-android-checkbox-outline"></i>100%响应，一次开发适配多种终端设备，兼容不同分辨率</li>
                             </ul>
                             <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                               href="javascript:void(0);">查看kero文档</a>
+                               href="//tinper.org/dist/kero/docs/overview.html">查看kero文档</a>
                             <!--<button class="btn btn-primary btn-action btn-fill"><a href="/index.swig/design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a></button>-->
                         </div>
                     </div>
@@ -416,9 +416,9 @@
                     </div>
                     <div class="download-buttons wow fadeInUp">
                         <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                           href="javascript:void(0);">查看客户案例</a>
-                        <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                           href="javascript:void(0);">合作咨询</a>
+                           href="//172.20.15.186/design/case">查看客户案例</a>
+                       {# <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
+                           href="javascript:void(0);">合作咨询</a>#}
                     </div>
                 </div>
             </div>
