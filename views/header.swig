@@ -39,7 +39,7 @@
                 <div class="site-menubar-inner margin-top-60 padding-top-10 height-full" >
                     <ul class="menubar height-full" >
                         <li class="margin-left-20"><a href="//172.20.15.186/design">首页</a></li>
-                        <li class="margin-20"><a href="//design.yyuap.com/designer/" target="_blank">设计器</a></li>
+                        <li class="margin-20"><a href="//design.yyuap.com/designer/" target="_blank">可视化设计器</a></li>
                         <li class="margin-20"><a href="//172.20.15.186/mall/">模板中心</a></li>
                         <li class="margin-20"><a href="//tinper.org/dist/kero/docs/overview.html">kero</a></li>
                         <li class="margin-20"><a href="//172.20.15.186/design/case">案例</a></li>
