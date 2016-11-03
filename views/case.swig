@@ -29,7 +29,7 @@
                     <div class="u-col-md-8 u-col-md-offset-2 ">
                         <div class="services-content">
                             <h1 class="wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">
-                                产品新推出，已经超过100+家用户正在使用</h1>
+                                超过100+用户正在使用</h1>
                             </p>
                         </div>
                     </div>

@@ -18,7 +18,7 @@
                                 </p>
 
                                 <p class="wow fadeInUp font-size-18" data-wow-delay="0.1s">
-                                    全新企业级应用框架
+                                    一站式开发体验 降低企业开发成本
                                 </p>
                                 <a target="_blank" class="u-button u-button-primary btn-action popup wow fadeInUp"
                                    data-wow-delay="0.2s" href="http://tinper.org">开源版本试用</a>
@@ -62,12 +62,12 @@
                                 <img class="icon-2" src="images/icon2.png" height="60" width="60" alt="Service"/>
                             </div>
                             <div class="services-description">
-                                <h1>丰富的模版库</h1>
+                                <h1>丰富的模板库</h1>
 
                                 <p>
-                                    模版库的精选模版全部基于iuap design的neoui开发而来,
-                                    模版以满足B端企业级开发为主.
-                                    同时提供H5类着陆页模版.
+                                    模板库的精选模板全部基于iuap design的neoui开发而来,
+                                    模板以满足B端企业级开发为主.
+                                    同时提供H5类着陆页模板.
                                 </p>
                             </div>
                         </div>
@@ -180,11 +180,11 @@
                         <h4>快速布局的在线设计器</h4>
 
                         <p>
-                            预制常用基础布局模版
+                            预制常用基础布局模板
                         </p>
 
                         <p>
-                            直接编辑模版库文件或自行设计模版
+                            直接编辑模板库文件或自行设计模板
                         </p>
 
                         <p>
@@ -204,17 +204,17 @@
         </div>
 
 
-        <!-- 模版 -->
+        <!-- 模板 -->
         <div class="services-section text-center" id="services"><!-- Services section (small) with icons -->
             <div class="u-container clearfix padding-top-30">
                 <div class="u-col-md-8 u-col-md-offset-2 ">
                     <div class="services-content padding-0">
-                        <h1 class="wow fadeInUp">从选择选择合适您的模版开始</h1>
+                        <h1 class="wow fadeInUp">从选择合适您的模板开始</h1>
 
                         <p class="wow fadeInUp" data-wow-delay="0.1s">
 
-                            在线模板中心，所有模版均基于tinper里面的neoui框架，源自实际业务具有真实场景应用。
-                            模版库的模版来源由官方及广大使用iuapdesign的开发者所贡献，可以直接使用设计器编辑、能够与样式板控件随意替换，方便开发者快速使用到应用中去。
+                            在线模板中心，所有模板均基于tinper里面的neoui框架，源自实际业务具有真实场景应用。
+                            模板库的模板来源由官方及广大使用iuapdesign的开发者所贡献，可以直接使用设计器编辑、能够与样式板控件随意替换，方便开发者快速使用到应用中去。
                         </p>
                     </div>
                 </div>
@@ -226,7 +226,7 @@
                             </div>
                             <div class="services-description margin-top-30">
                                 <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                                   href="//172.20.15.186/mall">开始选择您需要的模版</a>
+                                   href="//172.20.15.186/mall">开始选择您需要的模板</a>
                             </div>
                         </div>
 
@@ -252,9 +252,9 @@
                             <p>使用Kero，能够
                             </p>
                             <ul>
-                                <li><i class="ion-android-checkbox-outline"></i>基于iuap design设计语言，所有页面规范、标准、一致</li>
-                                <li><i class="ion-android-checkbox-outline"></i>支持IE8+、chrome、firefox、safari等主流浏览器</li>
-                                <li><i class="ion-android-checkbox-outline"></i>100%响应，一次开发适配多种终端设备，兼容不同分辨率</li>
+                                <li><i class="ion-android-checkbox-outline"></i>实现页面UI和数据的双向绑定，帮助开发者快速构建数据驱动型应用</li>
+                                <li><i class="ion-android-checkbox-outline"></i>提供控件适配器kero-adapter，将neoui框架和数据打通，给开发者提供完整的开发体验</li>
+                                <li><i class="ion-android-checkbox-outline"></i>提供多维数据模型，解决企业应用中复杂的业务应用场景的开发问题</li>
                             </ul>
                             <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
                                href="//tinper.org/dist/kero/docs/overview.html">查看kero文档</a>
@@ -340,9 +340,9 @@
                                     <p>根据具体业务需求能够快速构建界面、体验优秀的跨屏效果、并且可适配主流的浏览器。<br class="hidden-xs">组件简单易用，样式丰富，配置灵活，使web开发更快捷。
                                     </p>
 
-                                    <h3>- 刘大非 -</h3>
+                                    <h3>- 胡成桂 -</h3>
 
-                                    <h3>厦门象屿</h3>
+                                    <h3>厦门象禹</h3>
                                     <i class="ion ion-star"></i>
                                     <i class="ion ion-star"></i>
                                     <i class="ion ion-star"></i>
@@ -357,9 +357,9 @@
                                     <p>针对用户的需求能够及时提供支持，结合自身的框架提供较为全面的组件，在实践项目开发中能够提升效率，<br class="hidden-xs">
                                         完成符合设计的页面制作，希望后期能够在复杂场景适用性和兼容性方面做出更好的改进。</p>
 
-                                    <h3>- 晓健 -</h3>
+                                    <h3>- 李智 -</h3>
 
-                                    <h3>NC HR</h3>
+                                    <h3>友人才</h3>
                                     <i class="ion ion-star"></i>
                                     <i class="ion ion-star"></i>
                                     <i class="ion ion-star"></i>
@@ -374,9 +374,9 @@
                                     <p>基于企业级Web应用场景，提供了较丰富的应用组件和自由的组合方式，基于ko开发的kero统一了前端数据模型，<br class="hidden-xs">
                                         提升代码的一致性和可维护性</p>
 
-                                    <h3>- 江陵 -</h3>
+                                    <h3>- 宋江凌 -</h3>
 
-                                    <h3>NC 云采</h3>
+                                    <h3>友云采</h3>
                                     <i class="ion ion-star"></i>
                                     <i class="ion ion-star"></i>
                                     <i class="ion ion-star"></i>
@@ -384,7 +384,7 @@
                                     <i class="ion ion-star"></i>
                                 </div>
                             </div>
-                            <div class="testimonial-single"><img class="img-circle" src="images/testimonial3.png"
+                            <div class="testimonial-single"><img class="img-circle" src="images/testimonial4.png"
                                                                  alt="Client Testimonoal"/>
 
                                 <div class="testimonial-text">
@@ -392,7 +392,7 @@
                                         主流的MVVM技术架构，开发人员容易上手，遇到问题能够较快捷的提供相关支持，issue能够及时的给出反馈；提供了丰富的基础组件、样式模板，并方便个性化调整；版本升级成本较低。
                                         <br class="hidden-xs"> 希望后续能够持续的提供详细的使用手册API及良好的兼容性。</p>
 
-                                    <h3>- 孝启 -</h3>
+                                    <h3>- 于水峰 -</h3>
 
                                     <h3>数字营销</h3>
                                     <i class="ion ion-star"></i>

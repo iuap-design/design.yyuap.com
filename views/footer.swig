@@ -6,7 +6,7 @@
 			<div class="page">
 				<div class="row">
 					<div class="u-col-md-5 text-left">
-						<h5><font><font>关于iuap design tinper</font></font></h5>
+						<h5><font><font>关于iuap design </font></font></h5>
 						<p>
 							<font>
 								<font>聚焦前端开发，提供前端开发全链路生态，包含设计指导、前端框架集、前端开发工具集、组件库、模板库等一系列技术产品。</font>
