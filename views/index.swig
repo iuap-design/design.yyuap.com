@@ -76,7 +76,7 @@
                                 <img class="icon-3" src="images/icon3.png" height="60" width="60" alt="Service"/>
                             </div>
                             <div class="services-description">
-                                <h1>MVVM模型框架</h1>
+                                <h1>MVVM框架</h1>
 
                                 <p>
                                     Kero是一个基于knockout扩展的类库，做为MVVM架构中Model层的增强，主要用于处理企业级复杂数据交互。
