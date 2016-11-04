@@ -238,8 +238,8 @@
 
         <!-- kero -->
         <div class="koBackground">
-            <div class="u-container">
-                <div class="flex-split"><!-- Feature section with flex layout -->
+            <div class="u-container clearfix">
+               {# <div class="flex-split"><!-- Feature section with flex layout -->
                     <div class="f-left">
                         <div class="left-content wow fadeInUp">
                             <img class="img-responsive" src="images/feature_kero.png" alt=""/>
@@ -260,6 +260,25 @@
                                href="//pre.tinper.org/dist/kero/docs/overview.html">查看kero文档</a>
                             <!--<button class="btn btn-primary btn-action btn-fill"><a href="/index.swig/design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a></button>-->
                         </div>
+                    </div>
+                </div>#}
+                <div class="u-col-md-6">
+                    <img class="img-responsive padding-vertical-30" src="images/feature_kero.png" alt=""/>
+                </div>
+                <div class="u-col-md-6 ">
+                    <div class="self-margin-top-100">
+
+                        <h1 >Kero.</h1>
+                        <p>使用Kero，能够
+                        </p>
+                        <ul class="self-ul-lineHeight">
+                            <li class="wow fadeInUp"  data-wow-delay="0.1s"><i class="ion-android-checkbox-outline" ></i>实现页面UI和数据的双向绑定，帮助开发者快速构建数据驱动型应用</li>
+                            <li class="wow fadeInUp"  data-wow-delay="0.1s"><i class="ion-android-checkbox-outline"></i>提供控件适配器kero-adapter，将neoui框架和数据打通，给开发者提供完整的开发体验</li>
+                            <li class="wow fadeInUp"  data-wow-delay="0.1s"><i class="ion-android-checkbox-outline"></i>提供多维数据模型，解决企业应用中复杂的业务应用场景的开发问题</li>
+                        </ul>
+                        <a class="u-button u-button-primary btn-action popup wow fadeInUp margin-top-10" data-wow-delay="0.2s"
+                           href="//pre.tinper.org/dist/kero/docs/overview.html">查看kero文档</a>
+                        <!--<button class="btn btn-primary btn-action btn-fill"><a href="/index.swig/design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a></button>-->
                     </div>
                 </div>
             </div>

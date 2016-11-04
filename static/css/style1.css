@@ -2760,3 +2760,15 @@ span.uf.uf-anglepointingtoleft,span.uf.uf-anglearrowpointingtoright {
     left: 10%;
     top: 50%;
 }
+.self-ul-lineHeight{
+    line-height: 1.4;
+}
+.self-margin-top-100{
+    margin:100px 0;
+}
+
+@media (max-width: 768px) {
+    .self-margin-top-100{
+        margin:20px 0;
+    }
+}
