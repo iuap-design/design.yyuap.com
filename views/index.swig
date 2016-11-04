@@ -226,7 +226,7 @@
                             </div>
                             <div class="services-description margin-top-30">
                                 <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                                   href="//172.20.15.186/mall">开始选择您需要的模板</a>
+                                   href="//design.yyuap.com/mall">开始选择您需要的模板</a>
                             </div>
                         </div>
 
@@ -257,7 +257,7 @@
                                 <li><i class="ion-android-checkbox-outline"></i>提供多维数据模型，解决企业应用中复杂的业务应用场景的开发问题</li>
                             </ul>
                             <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                               href="//pre.tinper.org/dist/kero/docs/overview.html">查看kero文档</a>
+                               href="//tinper.org/dist/kero/docs/overview.html">查看kero文档</a>
                             <!--<button class="btn btn-primary btn-action btn-fill"><a href="/index.swig/design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a></button>-->
                         </div>
                     </div>
@@ -277,7 +277,7 @@
                             <li class="wow fadeInUp"  data-wow-delay="0.1s"><i class="ion-android-checkbox-outline"></i>提供多维数据模型，解决企业应用中复杂的业务应用场景的开发问题</li>
                         </ul>
                         <a class="u-button u-button-primary btn-action popup wow fadeInUp margin-top-10" data-wow-delay="0.2s"
-                           href="//pre.tinper.org/dist/kero/docs/overview.html">查看kero文档</a>
+                           href="//tinper.org/dist/kero/docs/overview.html">查看kero文档</a>
                         <!--<button class="btn btn-primary btn-action btn-fill"><a href="/index.swig/design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a></button>-->
                     </div>
                 </div>
@@ -439,7 +439,7 @@
                     </div>
                     <div class="download-buttons wow fadeInUp">
                         <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                           href="//172.20.15.186/design/case">查看客户案例</a>
+                           href="/case">查看客户案例</a>
                        {# <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
                            href="javascript:void(0);">合作咨询</a>#}
                     </div>
