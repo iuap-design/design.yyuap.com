@@ -2769,6 +2769,16 @@ span.uf.uf-anglepointingtoleft,span.uf.uf-anglearrowpointingtoright {
 
 @media (max-width: 768px) {
     .self-margin-top-100{
-        margin:20px 0;
+        margin:30px 0;
+    }
+}
+
+.self-business-title-padding-20{
+    padding:20px;
+}
+@media (max-width: 768px) {
+    .self-business-padding{
+        padding: 10px 8px;
+        line-height: 1.4;
     }
 }

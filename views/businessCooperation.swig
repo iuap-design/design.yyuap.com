@@ -10,9 +10,9 @@
             <div class="text-center self-business-title">
                 <div class="u-container">
                     <div class="u-row">
-                        <div class="u-col-5">
-                            <div class=" padding-20 bg-blue-200">
-                                <h1 class="u-counter-label text-uppercase font-size-20">期待与您的深度合作</h1>
+                        <div class="u-col-6 u-col-xs-12">
+                            <div class=" self-business-title-padding-20 bg-blue-200 self-business-padding">
+                                <h1 class="u-counter-label text-uppercase font-size-20">专业技术团队持续提供基于用户价值的解决方案</h1>
                                 {#<div class="u-row no-space">
                                     <div class="u-col-sm-6">
                                         <div class="u-counter u-counter-lg text-left padding-left-20">
