@@ -17,12 +17,12 @@
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-right clearfix" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
-                    <li><a href="//172.20.15.186/design">首页</a></li>
-                    <li><a href="//design.yyuap.com/designer/" target="_blank">可视化设计器</a></li>
-                    <li><a href="//172.20.15.186/mall/">模板中心</a></li>
-                    <li><a href="//tinper.org/dist/kero/docs/overview.html">kero</a></li>
-                    <li><a href="//172.20.15.186/design/case">案例</a></li>
-                    <li><a href="//172.20.15.186/design/businessCooperation">商务合作</a></li>
+                    <li><a href="//design.yyuap.com">首页</a></li>
+                    <li><a href="//design.yyuap.com/designer" target="_blank">可视化设计器</a></li>
+                    <li><a href="//design.yyuap.com/mall">模板中心</a></li>
+                   {# <li><a href="//tinper.org/dist/kero/docs/overview.html">kero</a></li>#}
+                    <li><a href="//design.yyuap.com/case">案例</a></li>
+                    <li><a href="//design.yyuap.com/businessCooperation">商务合作</a></li>
                     <!--
                      <li><a href="./aboutUS">关于我们</a></li>
                      -->
@@ -39,12 +39,12 @@
                 </button>
                 <div class="site-menubar-inner margin-top-60 padding-top-10 height-full" >
                     <ul class="menubar height-full" >
-                        <li class="margin-left-20"><a href="//172.20.15.186/design">首页</a></li>
-                        <li class="margin-20"><a href="//design.yyuap.com/designer/" target="_blank">可视化设计器</a></li>
-                        <li class="margin-20"><a href="//172.20.15.186/mall/">模板中心</a></li>
-                        <li class="margin-20"><a href="//tinper.org/dist/kero/docs/overview.html">kero</a></li>
-                        <li class="margin-20"><a href="//172.20.15.186/design/case">案例</a></li>
-                        <li class="margin-20"><a href="//172.20.15.186/design/businessCooperation">商务合作</a></li>
+                        <li class="margin-left-20"><a href="//design.yyuap.com">首页</a></li>
+                        <li class="margin-20"><a href="//design.yyuap.com/designer" target="_blank">可视化设计器</a></li>
+                        <li class="margin-20"><a href="//design.yyuap.com/mall">模板中心</a></li>
+                        {#<li class="margin-20"><a href="//tinper.org/dist/kero/docs/overview.html">kero</a></li>#}
+                        <li class="margin-20"><a href="//design.yyuap.com/case">案例</a></li>
+                        <li class="margin-20"><a href="//design.yyuap.com/businessCooperation">商务合作</a></li>
                         <!--
                         <li class="margin-20"><a href="./businessCooperation">商务合作</a></li>
                                                <li class="margin-20"><a href="./aboutUS">关于我们</a></li>

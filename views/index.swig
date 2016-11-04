@@ -118,7 +118,7 @@
                             </div>
 
                             <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                               href="//github.com/iuap-design/iuap-design-language">了解我们的设计语言</a>
+                               href="//tinper.org/dist/neoui/index.html">neoui 前端框架</a>
                         </div>
                     </div>
                 </div>
@@ -278,7 +278,7 @@
                             <h3><span class="counter">50</span>+</h3>
 
                             <div class="counter-text">
-                                <h4>用户已经展开深度合作</h4>
+                                <h4>客户已经展开深度合作</h4>
                             </div>
                         </div>
                     </div>
@@ -287,7 +287,7 @@
                             <div class="counter-icon">
                                 <i class="ion-cube"></i>
                             </div>
-                            <h3><span class="counter">466</span>＋</h3>
+                            <h3><span class="counter">30</span>＋</h3>
 
                             <div class="counter-text">
                                 <h4>项目正在使用</h4>
