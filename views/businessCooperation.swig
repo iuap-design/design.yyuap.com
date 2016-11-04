@@ -31,10 +31,10 @@
                 <div class="u-row">
                     <div class="u-col-xs-12 u-col-sm-12 about-us">
                         <header class="section-header">
-                            <h2>更贴心的商业服务我们 </h2>
+                            <h2>更贴心的商业服务 </h2>
 
                             <div class="title_borderStyle"></div>
-                            <strong class="margin-top-30 block">我们的专家交付用于能源客户创新,高效和价值驱动的解决方案</strong>
+                            <strong class="margin-top-30 block">专业技术团队持续提供基于用户价值的解决方案</strong>
                         </header>
 
                         <ul class="our-quality setLineHeight clearfix">
@@ -130,7 +130,7 @@
                                         <img src="images/contact-img2.png" alt="Email-image">
                                     </figure>
                                     <span class="contact-us-links"> <strong
-                                                class="contact-info-name">打电话给我们：</strong> <a href="callto:010-62438768 "
+                                                class="contact-info-name">商务热线：</strong> <a href="callto:010-62438768 "
                                                                                               class="contact-info-link">+010-62436203</a> </span>
                                 </div>
                             </div>
@@ -139,7 +139,7 @@
                                     <figure class="contact-img">
                                         <img src="images/contact-img3.png" alt="Email-image">
                                     </figure>
-                                    <span class="contact-us-links"> <strong class="contact-info-name">电话：</strong> <a
+                                    <span class="contact-us-links"> <strong class="contact-info-name">手机：</strong> <a
                                                 href="mailto:zhaoyni@yonyou.com  " class="contact-info-link">13910670017 </a> </span>
                                 </div>
                             </div>

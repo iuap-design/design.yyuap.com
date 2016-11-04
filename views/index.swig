@@ -226,7 +226,7 @@
                             </div>
                             <div class="services-description margin-top-30">
                                 <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                                   href="//design.yyuap.com/mall">开始选择您需要的模板</a>
+                                   href="/mall">开始选择您需要的模板</a>
                             </div>
                         </div>
 
