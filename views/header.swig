@@ -22,6 +22,7 @@
                     <li><a href="//172.20.15.186/mall/">模板中心</a></li>
                     <li><a href="//tinper.org/dist/kero/docs/overview.html">kero</a></li>
                     <li><a href="//172.20.15.186/design/case">案例</a></li>
+                    <li><a href="//172.20.15.186/design/businessCooperation">商务合作</a></li>
                     <!--
                      <li><a href="./aboutUS">关于我们</a></li>
                      -->
@@ -43,6 +44,7 @@
                         <li class="margin-20"><a href="//172.20.15.186/mall/">模板中心</a></li>
                         <li class="margin-20"><a href="//tinper.org/dist/kero/docs/overview.html">kero</a></li>
                         <li class="margin-20"><a href="//172.20.15.186/design/case">案例</a></li>
+                        <li class="margin-20"><a href="//172.20.15.186/design/businessCooperation">商务合作</a></li>
                         <!--
                         <li class="margin-20"><a href="./businessCooperation">商务合作</a></li>
                                                <li class="margin-20"><a href="./aboutUS">关于我们</a></li>

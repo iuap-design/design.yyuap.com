@@ -2755,3 +2755,8 @@ span.uf.uf-anglepointingtoleft,span.uf.uf-anglearrowpointingtoright {
     top: 35%;
     left: 3%;
 }
+.self-business-title{
+    position: absolute;
+    left: 10%;
+    top: 50%;
+}
