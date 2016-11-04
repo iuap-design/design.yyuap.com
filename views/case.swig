@@ -39,27 +39,26 @@
         </div>
         <div class="caseContent">
             <div class="u-container padding-0">
-                <div class="flex-split"><!-- Feature section with flex layout -->
-                    <div class="f-right">
-                        <div class="right-content wow fadeInUp" data-wow-delay="0.1s"
+                <div class="u-row margin-vertical-50">
+                    <div class="u-col-md-6">
+                        <div class="right-content wow fadeInUp margin-vertical-50 padding-left-20" data-wow-delay="0.1s"
                              style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                             <h2>友人才</h2>
-
                             <p>专业的员工服务和共享服务平台</p>
                             <img class="img-responsive" src="images/case-hr-logo.png" alt="">
                         </div>
                     </div>
-                    <div class="f-left">
+                    <div class="u-col-md-6">
                         <div class="left-content wow fadeInUp" data-wow-delay="0.2s"
                              style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                             <img class="img-responsive" src="images/case-hr.png" alt="">
                         </div>
+
                     </div>
                 </div>
-
-                <div class="flex-split"><!-- Feature section with flex layout -->
-                    <div class="f-right">
-                        <div class="right-content wow fadeInUp" data-wow-delay="0.1s"
+                <div class="u-row margin-vertical-50">
+                    <div class="u-col-md-6">
+                        <div class="right-content wow fadeInUp margin-vertical-50 padding-left-20" data-wow-delay="0.1s"
                              style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                             <h2>友云采</h2>
 
@@ -67,17 +66,17 @@
                             <img class="img-responsive" src="images/case-yc-logo.png" alt="">
                         </div>
                     </div>
-                    <div class="f-left">
+                    <div class="u-col-md-6">
                         <div class="left-content wow fadeInUp" data-wow-delay="0.2s"
                              style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                             <img class="img-responsive" src="images/case-yyc.jpg" alt="">
                         </div>
+
                     </div>
                 </div>
-
-                <div class="flex-split"><!-- Feature section with flex layout -->
-                    <div class="f-right">
-                        <div class="right-content wow fadeInUp" data-wow-delay="0.1s"
+                <div class="u-row margin-vertical-50">
+                    <div class="u-col-md-6">
+                        <div class="right-content wow fadeInUp margin-vertical-50 padding-left-20" data-wow-delay="0.1s"
                              style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                             <h2>用友云审批</h2>
 
@@ -85,17 +84,17 @@
                             <img class="img-responsive" src="images/case-sp-logo.png" alt="">
                         </div>
                     </div>
-                    <div class="f-left">
+                    <div class="u-col-md-6">
                         <div class="left-content wow fadeInUp" data-wow-delay="0.2s"
                              style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                             <img class="img-responsive" src="images/case-sp.jpg" alt="">
                         </div>
+
                     </div>
                 </div>
-
-                <div class="flex-split"><!-- Feature section with flex layout -->
-                    <div class="f-right">
-                        <div class="right-content wow fadeInUp" data-wow-delay="0.1s"
+                <div class="u-row margin-vertical-50">
+                    <div class="u-col-md-6">
+                        <div class="right-content wow fadeInUp margin-vertical-50 padding-left-20" data-wow-delay="0.1s"
                              style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                             <h2>电商通</h2>
 
@@ -103,16 +102,16 @@
                             <img class="img-responsive" src="images/case-dst-logo.png" alt="">
                         </div>
                     </div>
-                    <div class="f-left">
+                    <div class="u-col-md-6">
                         <div class="left-content wow fadeInUp" data-wow-delay="0.2s"
                              style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
                             <img class="img-responsive" src="images/case-dst.png" alt="">
                         </div>
+
                     </div>
                 </div>
-
-
             </div>
+
         </div>
         <div class="counter-section">
             <div class="u-container">
