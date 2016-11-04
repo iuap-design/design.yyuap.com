@@ -257,7 +257,7 @@
                                 <li><i class="ion-android-checkbox-outline"></i>提供多维数据模型，解决企业应用中复杂的业务应用场景的开发问题</li>
                             </ul>
                             <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                               href="//tinper.org/dist/kero/docs/overview.html">查看kero文档</a>
+                               href="//tinper.org/dist/kero/docs/README.html">查看kero文档</a>
                             <!--<button class="btn btn-primary btn-action btn-fill"><a href="/index.swig/design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a></button>-->
                         </div>
                     </div>
@@ -278,7 +278,7 @@
                             <h3><span class="counter">50</span>+</h3>
 
                             <div class="counter-text">
-                                <h4>客户已经展开深度合作</h4>
+                                <h4>客户</h4>
                             </div>
                         </div>
                     </div>
@@ -290,7 +290,7 @@
                             <h3><span class="counter">30</span>＋</h3>
 
                             <div class="counter-text">
-                                <h4>项目正在使用</h4>
+                                <h4>项目</h4>
                             </div>
                         </div>
                     </div>
@@ -303,7 +303,7 @@
                             <h3><span class="counter">10</span>+</h3>
 
                             <div class="counter-text">
-                                <h4>云产品基于此开发</h4>
+                                <h4>云产品</h4>
                             </div>
                         </div>
                     </div>
@@ -315,7 +315,7 @@
                             <h3><span class="counter">1000</span>+</h3>
 
                             <div class="counter-text">
-                                <h4>开发者正在参与</h4>
+                                <h4>开发者</h4>
                             </div>
                         </div>
                     </div>
