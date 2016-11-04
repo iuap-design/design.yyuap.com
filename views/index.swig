@@ -257,7 +257,7 @@
                                 <li><i class="ion-android-checkbox-outline"></i>提供多维数据模型，解决企业应用中复杂的业务应用场景的开发问题</li>
                             </ul>
                             <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                               href="//tinper.org/dist/kero/docs/README.html">查看kero文档</a>
+                               href="//pre.tinper.org/dist/kero/docs/overview.html">查看kero文档</a>
                             <!--<button class="btn btn-primary btn-action btn-fill"><a href="/index.swig/design.yyuap.com/dist/pages/webIDE/index.html">查看kero文档</a></button>-->
                         </div>
                     </div>
