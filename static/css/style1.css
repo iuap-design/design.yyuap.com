@@ -2783,4 +2783,10 @@ span.uf.uf-anglepointingtoleft,span.uf.uf-anglearrowpointingtoright {
         padding: 10px 8px;
         line-height: 1.4;
     }
+    .services-content{
+        padding-bottom: 0;
+    }
+}
+.self-case-ul li{
+    margin: 10px 0 10px 2px;
 }

@@ -38,10 +38,10 @@
             </div>
         </div>
         <div class="caseContent">
-            <div class="u-container padding-0">
-                <div class="u-row margin-vertical-50">
+            <div class="u-container">
+                <div class="u-row margin-vertical-80">
                     <div class="u-col-md-6">
-                        <div class="right-content wow fadeInUp margin-vertical-50 padding-left-20" data-wow-delay="0.1s"
+                        <div class="right-content wow fadeInUp margin-vertical-50 " data-wow-delay="0.1s"
                              style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                             <h2>友人才</h2>
                             <p>专业的员工服务和共享服务平台</p>
@@ -56,9 +56,9 @@
 
                     </div>
                 </div>
-                <div class="u-row margin-vertical-50">
+                <div class="u-row margin-vertical-80">
                     <div class="u-col-md-6">
-                        <div class="right-content wow fadeInUp margin-vertical-50 padding-left-20" data-wow-delay="0.1s"
+                        <div class="right-content wow fadeInUp margin-vertical-50 " data-wow-delay="0.1s"
                              style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                             <h2>友云采</h2>
 
@@ -74,9 +74,9 @@
 
                     </div>
                 </div>
-                <div class="u-row margin-vertical-50">
+                <div class="u-row margin-vertical-80">
                     <div class="u-col-md-6">
-                        <div class="right-content wow fadeInUp margin-vertical-50 padding-left-20" data-wow-delay="0.1s"
+                        <div class="right-content wow fadeInUp margin-vertical-50 " data-wow-delay="0.1s"
                              style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                             <h2>用友云审批</h2>
 
@@ -92,9 +92,9 @@
 
                     </div>
                 </div>
-                <div class="u-row margin-vertical-50">
+                <div class="u-row margin-vertical-80">
                     <div class="u-col-md-6">
-                        <div class="right-content wow fadeInUp margin-vertical-50 padding-left-20" data-wow-delay="0.1s"
+                        <div class="right-content wow fadeInUp margin-vertical-50" data-wow-delay="0.1s"
                              style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
                             <h2>电商通</h2>
 
@@ -184,144 +184,146 @@
             <div class="u-container">
                 <div class="u-row text-left">
                     <div class="u-col-sm-3 u-col-xs-6">
-                        <ul>
-                            <div class="counter-up">
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友集团
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    北京用友政务软件有限公司
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友金融信息技术有限公司
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友广信网络科技有限公司
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    民太安集团
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    华科诚信
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    厦门象屿集团
-                                </li>
-                            </div>
+                        <ul class=" self-case-ul">
+
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友集团
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络友人才
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友金融信息技术有限公司
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                北京用友政务软件有限公司
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                民太安集团
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                华科诚信
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                厦门象屿集团
+                            </li>
+
                         </ul>
 
                     </div>
                     <div class="u-col-sm-3 u-col-xs-6">
-                        <ul>
-                            <div class="counter-up">
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    全友家私
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    唐山三友集团
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    河北物流交通公共服务平台
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络友人才
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络友云采
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络NC共享服务
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络云portal
-                                </li>
-                            </div>
+                        <ul class=" self-case-ul">
+
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                全友家私
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                唐山三友集团
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                河北物流交通公共服务平台
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友广信网络科技有限公司
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络友云采
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络云审
+
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络电商通
+                            </li>
+
+                        </ul>
+
+                    </div>
+                    <div class="clearfix visible-xs-block"></div>
+                    <div class="u-col-sm-3 u-col-xs-6">
+                        <ul class=" self-case-ul">
+
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络UI模板
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络云表单
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络数字营销
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络电子发票
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络云portal
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络物业收费管理
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络NC共享服务
+                            </li>
+
                         </ul>
 
                     </div>
                     <div class="u-col-sm-3 u-col-xs-6">
-                        <ul>
-                            <div class="counter-up">
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络UI模板
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络云表单
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络数字营销
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络电子发票
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络电商通
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络物业收费管理
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络云审
-                                </li>
-                            </div>
-                        </ul>
+                        <ul class=" self-case-ul">
 
-                    </div>
-                    <div class="u-col-sm-3 u-col-xs-6">
-                        <ul>
-                            <div class="counter-up">
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友网络iuap-studio
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    用友集团IT信息中心
-                                </li>
-                                <!--
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    上海城建集团
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    中国机械工业建设总公司
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    安徽鲁班建设投资集团公司
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    北京技术投资开发有限公司
-                                </li>
-                                <li>
-                                    <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
-                                    北京峡光经济技术有限公司
-                                </li>
-                                -->
-                            </div>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友网络iuap-studio
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                用友集团IT信息中心
+                            </li>
+                            <!--
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                上海城建集团
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                中国机械工业建设总公司
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                安徽鲁班建设投资集团公司
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                北京技术投资开发有限公司
+                            </li>
+                            <li>
+                                <i class="uf uf-chevronsigndown green-A700 inline-block"></i>
+                                北京峡光经济技术有限公司
+                            </li>
+                            -->
+
                         </ul>
 
                     </div>

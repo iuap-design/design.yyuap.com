@@ -6,20 +6,14 @@
     {% include "header.swig"%}
 
     <div class="main"><!-- Main Section-->
-        <div class="show_banner">
-            <div class="text-center self-business-title">
+
+        <div class="jarallax" id="jarallax">
+            <div class="text-center">
                 <div class="u-container">
                     <div class="u-row">
-                        <div class="u-col-6 u-col-xs-12">
-                            <div class=" self-business-title-padding-20 bg-blue-200 self-business-padding">
-                                <h1 class="u-counter-label text-uppercase font-size-20">专业技术团队持续提供基于用户价值的解决方案</h1>
-                                {#<div class="u-row no-space">
-                                    <div class="u-col-sm-6">
-                                        <div class="u-counter u-counter-lg text-left padding-left-20">
-                                            <h1 class="u-counter-label text-uppercase font-size-20">期待与您的深度合作</h1>
-                                        </div>
-                                    </div>
-                                </div>#}
+                        <div class="hero-content">
+                            <div class="u-col-md-8  u-col-md-offset-2 padding-0 self-case-position">
+                                <h1 class="wow fadeInUp u-col-xs-12" data-wow-delay="0.1s">专业技术团队持续提供基于用户价值的解决方案</h1>
                             </div>
                         </div>
                     </div>
@@ -148,91 +142,6 @@
                 </div>
             </div>
         </section>
-        {# <section class="section-padding">
-             <div class="u-container">
-                 <div class="u-row">
-                     <div class="u-col-md-8">
-                         <form name="contact-form" id="contactForm" action="/form/add" method="POST">
-
-                             <div class="u-row">
-                                 <div class="u-col-md-6 margin-bottom-20">
-                                     <div class="input-field">
-                                         <div class="u-input-group-before margin-top-5 " style="color: red;">*</div>
-                                         <input id="name" type="text" name="name" class="validate padding-left-15" id="name"
-                                                style="border-bottom: 1px solid #ccc;border-bottom-color:#ccc!important;"
-                                                uvalidate='{"required":true,"reg":"^.*$","hasSuccess": true,"notipFlag": true,"nullMsg":"内容不能为空"}'>
-                                         <label for="name" class="">名字</label>
-                                     </div>
-
-                                 </div>
-                                 <!-- /.col-md-6 -->
-
-                                 <div class="u-col-md-6 margin-bottom-20">
-                                     <div class="input-field">
-                                         <label class="sr-only" for="email">电子邮件</label>
-                                         <div class="u-input-group-before margin-top-5 " style="color: red;">*</div>
-                                         <input id="email" type="email" name="email" class="validate padding-left-15"
-                                                style="border-bottom: 1px solid #ccc;"
-                                                uvalidate='{"required":true,"validType":"email","hasSuccess": true,"notipFlag": true,"nullMsg":"内容不能为空"}'>
-                                         <label for="email" data-error="wrong" data-success="right"
-                                                class="validate">电子邮箱</label>
-                                     </div>
-                                 </div>
-                                 <!-- /.col-md-6 -->
-                             </div>
-                             <!-- /.row -->
-
-                             <div class="u-row">
-                                 <div class="u-col-md-6 margin-bottom-20">
-                                     <div class="input-field">
-                                         <div class="u-input-group-before margin-top-5  " style="color: red;">*</div>
-                                         <input id="phone" type="tel" name="phone" class="validate padding-left-15"
-                                                style="border-bottom: 1px solid #ccc;"
-                                                uvalidate='{"required":true,"validType":"phone","hasSuccess": true,"notipFlag": true,"nullMsg":"内容不能为空"}'>
-                                         <label for="phone">电话号码</label>
-                                     </div>
-                                 </div>
-                                 <!-- /.col-md-6 -->
-
-                                 <div class="u-col-md-6 margin-bottom-20">
-                                     <div class="input-field">
-                                         <input id="website" type="text" name="website" class="validate"
-                                                style="border-bottom: 1px solid #ccc;">
-                                         <label for="website">你的网页</label>
-                                     </div>
-                                 </div>
-                                 <!-- /.col-md-6 -->
-                                 <div class="u-col-md-6 margin-bottom-20">
-                                     <div class="input-field">
-                                         <input id="message" type="text" name="message" class="validate"
-                                                style="border-bottom: 1px solid #ccc;">
-                                         <label for="message">信息</label>
-                                     </div>
-                                 </div>
-                                 <!-- /.col-md-6 -->
-                             </div>
-                             <!-- /.row -->
-
-                             <button id="addUserForm" type="submit" name="submit"
-                                     class="u-button u-button-block u-button-info btn_show">发消息
-                             </button>
-                         </form>
-                     </div>
-                     <!-- /.col-md-8 -->
-
-                     <div class="u-col-md-4 contact-info">
-
-                         <!-- map-section -->
-                         <div style="width:360px;height:360px;border:#ccc solid 1px;" id="dituContent"></div>
-                         <!-- /.map-section -->
-
-
-                     </div>
-                     <!-- /.col-md-4 -->
-                 </div>
-                 <!-- /.row -->
-             </div>
-         </section>#}
 
         <!-- Scroll To Top -->
 
