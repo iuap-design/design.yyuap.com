@@ -2786,6 +2786,11 @@ span.uf.uf-anglepointingtoleft,span.uf.uf-anglearrowpointingtoright {
     .services-content{
         padding-bottom: 0;
     }
+    .info-container-1 .our-quality li{
+        float: left;
+        width: 50%;
+        text-align: center;
+    }
 }
 .self-case-ul li{
     margin: 10px 0 10px 2px;
