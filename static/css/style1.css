@@ -2790,6 +2790,17 @@ span.uf.uf-anglepointingtoleft,span.uf.uf-anglearrowpointingtoright {
         float: left;
         width: 50%;
         text-align: center;
+        margin-bottom: 20px;
+    }
+    .info-container-1 .our-quality figure {
+        display: block;
+        margin-top: 20px;
+        margin-bottom: 10px;
+        overflow: hidden;
+    }
+    .info-container-1 .our-quality li svg {
+        width: 100px;
+        height: 110px;
     }
 }
 .self-case-ul li{

@@ -31,11 +31,11 @@
                             <strong class="margin-top-30 block">专业技术团队持续提供基于用户价值的解决方案</strong>
                         </header>
 
-                        <ul class="our-quality setLineHeight clearfix">
+                        <ul class="our-quality setLineHeight clearfix font-size-18 ">
                                 <li class="zoom">
                                     <figure class="fade-effect">
 
-                                        <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+                                        <svg version="1.1" id="图层_1"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                              viewBox="-859 151 200 200" style="enable-background:new -859 151 200 200;" xml:space="preserve">
 <style type="text/css">
     .st0{fill:#4F4B4A;}
@@ -69,7 +69,7 @@
                                         <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                              viewBox="-859 151 200 200" style="enable-background:new -859 151 200 200;" xml:space="preserve">
 <style type="text/css">
-    .st0{fill:#4F4B4A;}
+    .st0{fill:#ed4920;}
 </style>
                                             <path class="st0" d="M-797.3,217.5c4.1,12.4,15.5,12.4,19.5,0c1.3-0.7,2.7-2.8,2.9-4.5c0.2-1.8,0.1-4.2-1.7-4.2
 	c-0.4-5.8-3.6-10.7-10.8-10.7c-7.1,0-10.7,4.3-11.1,10.7c-1.8,0-2,2.4-1.7,4.2C-800,214.7-798.6,216.8-797.3,217.5z"/>
@@ -96,7 +96,7 @@
                                         <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                              viewBox="-852 151 213.5 200" style="enable-background:new -852 151 213.5 200;" xml:space="preserve">
 <style type="text/css">
-    .st0{fill:#4F4B4A;}
+    .st0{fill:#ed4920;}
 </style>
                                             <path class="st0" d="M-721.4,277.7H-775c-1.8,0-3.3,1.5-3.3,3.3v6.7c0,1.8,1.5,3.3,3.3,3.3h53.6c1.8,0,3.3-1.5,3.3-3.3V281
 	C-718.1,279.2-719.6,277.7-721.4,277.7z M-768.3,233.2c0-8.2-6.8-14.9-15.1-14.9s-15.1,6.6-15.1,14.9s6.8,14.9,15.1,14.9
@@ -121,7 +121,7 @@
                                         <svg version="1.1" id="图层_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                                              viewBox="-859 151 200 200" style="enable-background:new -859 151 200 200;" xml:space="preserve">
 <style type="text/css">
-    .st0{fill:#4F4B4A;}
+    .st0{fill:#ed4920;}
 </style>
                                             <path class="st0" d="M-835.6,326.1l51.4-14.4l5.3-5.3l-36.2-36.2l-5.4,5.4C-820.4,275.6-835.6,326.1-835.6,326.1z M-809,264.2
 	l36.2,36.2l70.8-70.8l-36.2-36.2L-809,264.2z M-685.7,191.7l-14.6-14.6c-8.3-8.3-13.3-8.3-21.6,0l-10.3,10.3l36.2,36.2l10.3-10.3
