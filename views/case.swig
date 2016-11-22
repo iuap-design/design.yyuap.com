@@ -16,7 +16,7 @@
                                     专业前端FED团队支持，快速响应、快速迭代
                                 </p>
                                 <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                                   href="//design.yyuap.com/businessCooperation">合作咨询</a>
+                                   href="/businessCooperation">合作咨询</a>
                             </div>
                         </div>
                     </div>

@@ -195,7 +195,7 @@
                             控件、组件、布局完全依赖neoui
                         </p>
                         <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                           href="//design.yyuap.com/designer/" target="_blank">开始您的创意之旅</a>
+                           href="/designer" target="_blank">开始您的创意之旅</a>
 
                     </div>
                 </div>
@@ -226,7 +226,7 @@
                             </div>
                             <div class="services-description margin-top-30">
                                 <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                                   href="//design.yyuap.com/mall">开始选择您需要的模板</a>
+                                   href="/mall">开始选择您需要的模板</a>
                             </div>
                         </div>
 
@@ -438,7 +438,7 @@
                     </div>
                     <div class="download-buttons wow fadeInUp">
                         <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
-                           href="//design.yyuap.com/businessCooperation">查看客户案例</a>
+                           href="/businessCooperation">查看客户案例</a>
                        {# <a class="u-button u-button-primary btn-action popup wow fadeInUp" data-wow-delay="0.2s"
                            href="javascript:void(0);">合作咨询</a>#}
                     </div>
