@@ -12,7 +12,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a href="//design.yyuap.com"><img src="logos/logox.png" height="40" width="174" class="change_link_img" alt="Mu"/></a>
+                <a href="/"><img src="logos/logox.png" height="40" width="174" class="change_link_img" alt="Mu"/></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-right clearfix" id="bs-example-navbar-collapse-1">
