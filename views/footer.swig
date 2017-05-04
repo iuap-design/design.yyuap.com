@@ -23,8 +23,8 @@
 							<font>100094</font>
 						</p></div>
 					<div class="u-col-md-2 text-left">
-						<h5><font>加入我们：</font></h5>
-						<p>电话：010-62438768
+						<h5><font>联系我们：</font></h5>
+						<p>电话：4006815456
 							<br>邮箱：zhaoyni@yonyou.com
 							<br>工作日：每天9:00-17:00</p>
 					</div>
